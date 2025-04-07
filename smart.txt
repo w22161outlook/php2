@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="香港" tvg-id="hkphoenix_twn",香港|凤凰香港
+Smart//:id=hkphoenix_twn
+#EXTINF:-1 group-title="香港" tvg-id="phoenixtv_hd",香港|凤凰卫视
+Smart//:id=phoenixtv_hd
+#EXTINF:-1 group-title="香港" tvg-id="phoenixinfo_hd",香港|凤凰资讯
+Smart//:id=phoenixinfo_hd
 #EXTINF:-1 group-title="香港" tvg-id="jade_twn",香港|翡翠台
 Smart//:id=jade_twn
 #EXTINF:-1 group-title="香港" tvg-id="Jade_xue",香港|翡翠台 backup
@@ -9,8 +15,6 @@ Smart//:id=inews_twn
 Smart//:id=j2_twn
 #EXTINF:-1 group-title="香港" tvg-id="pearl_twn",香港|珍珠台
 Smart//:id=pearl_twn
-#EXTINF:-1 group-title="香港" tvg-id="hkphoenix_twn",香港|凤凰香港
-Smart//:id=hkphoenix_twn
 #EXTINF:-1 group-title="香港" tvg-id="hoycaijing_twn",香港|HOY资讯台
 Smart//:id=hoycaijing_twn
 #EXTINF:-1 group-title="香港" tvg-id="rhk31_twn",香港|RHK 31
@@ -19,10 +23,6 @@ Smart//:id=rhk31_twn
 Smart//:id=viu1_twn
 #EXTINF:-1 group-title="香港" tvg-id="rhk32_twn",香港|RHK 32
 Smart//:id=rhk32_twn
-#EXTINF:-1 group-title="香港" tvg-id="phoenixtv_hd",香港|凤凰卫视
-Smart//:id=phoenixtv_hd
-#EXTINF:-1 group-title="香港" tvg-id="phoenixinfo_hd",香港|凤凰资讯
-Smart//:id=phoenixinfo_hd
 #EXTINF:-1 group-title="香港" tvg-id="viusix_twn",香港|Viu6
 Smart//:id=viusix_twn
 #EXTINF:-1 group-title="中国" tvg-id="cctv1",中国|CCTV-1 综合 HD
