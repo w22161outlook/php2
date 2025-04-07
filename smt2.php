@@ -108,12 +108,10 @@ function sendTXTList() {
 
     $output = '';
     foreach ($grouped as $group => $items) {
-        $output .= htmlspecialchars($group) . ",#genre#\n";
         foreach ($items as $chan) {
-            $output .= sprintf("%s,%s/%s?id=%s\n",
+            $output .= sprintf("%s|%s,Smart//:id=%s\n",
+                htmlspecialchars($group),
                 htmlspecialchars($chan['name']),
-                $baseUrl,
-                $script,
                 urlencode($chan['id'])
             );
         }
@@ -142,32 +140,30 @@ function getChannelList($forceRefresh = false) {
     }
 
     $list = [];
-    $currentGroup = '默认分组';
     foreach (explode("\n", trim($raw)) as $line) {
         $line = trim($line);
         if (!$line) continue;
 
-        if (strpos($line, '#genre#') !== false) {
-            $currentGroup = trim(str_replace(',#genre#', '', $line));
-            continue;
-        }
-
-        $id = null;
-        if (preg_match('/\/\/:id=(\w+)/', $line, $m)) {
-            $id = $m[1];
-            $name = trim(explode(',', $line)[0]); // 修复括号
-        } elseif (preg_match('/[?&]id=([^&]+)/', $line, $m)) {
-            $id = $m[1];
-            $name = trim(explode(',', $line)[0]); // 修复括号
-        }
-
-        if ($id) {
-            $list[] = [
-                'id'    => $id,
-                'name'  => $name,
-                'group' => $currentGroup,
-                'logo'  => ''
-            ];
+        // 解析新格式：分组|频道名称,Smart//:id=频道ID
+        if (strpos($line, '|') !== false && strpos($line, 'Smart//:id=') !== false) {
+            $parts = explode(',', $line);
+            $groupAndName = explode('|', $parts[0]);
+            
+            if (count($groupAndName) === 2) {
+                $group = trim($groupAndName[0]);
+                $name = trim($groupAndName[1]);
+                
+                // 提取ID
+                $idStart = strpos($parts[1], 'Smart//:id=') + strlen('Smart//:id=');
+                $id = substr($parts[1], $idStart);
+                
+                $list[] = [
+                    'id'    => $id,
+                    'name'  => $name,
+                    'group' => $group,
+                    'logo'  => ''
+                ];
+            }
         }
     }
 
