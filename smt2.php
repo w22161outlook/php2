@@ -1,8 +1,13 @@
   <?php
+// 确保这是文件的绝对第一行，前面不能有任何空格或空行
+ob_start(); // 开启输出缓冲
+
 error_reporting(E_ALL);
-ini_set('display_errors', 1); // 调试时显示错误
-header('Content-Type: text/plain; charset=utf-8');
+ini_set('display_errors', 1);
 date_default_timezone_set("Asia/Shanghai");
+
+// 先设置header再启动session
+header('Content-Type: text/plain; charset=utf-8');
 session_start();
 
 // 核心配置
