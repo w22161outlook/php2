@@ -100,6 +100,7 @@ function sendTXTList() {
 
     try {
         $channels = getChannelList();
+        $baseUrl = getBaseUrl() . '/' . basename(__FILE__);
         
         $output = "#EXTM3U\n";
         foreach ($channels as $chan) {
@@ -110,8 +111,9 @@ function sendTXTList() {
                 htmlspecialchars($chan['name'])
             );
             
-            // 生成播放地址行
-            $output .= sprintf("Smart//:id=%s\n", 
+            // 生成实际播放地址
+            $output .= sprintf("%s?id=%s\n", 
+                $baseUrl,
                 urlencode($chan['id'])
             );
         }
