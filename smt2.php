@@ -85,44 +85,44 @@ function clearCache() {
     exit(implode("\n", $results));
 }
 
-// 生成TXT主列表
+// 生成M3U播放列表
 function sendTXTList() {
+    ob_start();
     header("Cache-Control: no-store, no-cache, must-revalidate");
     header("Pragma: no-cache");
     header("Expires: 0");
+    header('Content-Type: audio/x-mpegurl');
 
     try {
         $channels = getChannelList();
-    } catch (Exception $e) {
-        header('HTTP/1.1 500 Internal Server Error');
-        exit("无法获取频道列表: " . $e->getMessage());
-    }
-
-    $baseUrl  = getBaseUrl();
-    $script   = basename(__FILE__);
-    
-    $grouped = [];
-    foreach ($channels as $chan) {
-        $grouped[$chan['group']][] = $chan;
-    }
-
-    $output = '';
-    foreach ($grouped as $group => $items) {
-        foreach ($items as $chan) {
-            $output .= sprintf("%s|%s,Smart//:id=%s\n",
-                htmlspecialchars($group),
-                htmlspecialchars($chan['name']),
+        
+        $output = "#EXTM3U\n";
+        foreach ($channels as $chan) {
+            // 生成EXTINF行
+            $output .= sprintf('#EXTINF:-1 group-title="%s" tvg-id="%s",%s'."\n",
+                htmlspecialchars($chan['group']),
+                htmlspecialchars($chan['id']),
+                htmlspecialchars($chan['name'])
+            );
+            
+            // 生成播放地址行
+            $output .= sprintf("Smart//:id=%s\n", 
                 urlencode($chan['id'])
             );
         }
-        $output .= "\n";
-    }
 
-    header('Content-Disposition: inline; filename="channels_'.time().'.txt"');
-    echo trim($output);
+        header('Content-Disposition: inline; filename="playlist_'.time().'.m3u"');
+        echo trim($output);
+        
+    } catch (Exception $e) {
+        ob_clean();
+        header('HTTP/1.1 500 Internal Server Error');
+        exit("无法获取频道列表: " . $e->getMessage());
+    }
+    ob_end_flush();
 }
 
-// 获取频道列表（仅内存缓存）
+// 获取频道列表（支持新旧格式）
 function getChannelList($forceRefresh = false) {
     if (!$forceRefresh && extension_loaded('apcu')) {
         $cached = apcu_fetch('smart_channels');
@@ -140,28 +140,72 @@ function getChannelList($forceRefresh = false) {
     }
 
     $list = [];
-    foreach (explode("\n", trim($raw)) as $line) {
-        $line = trim($line);
-        if (!$line) continue;
+    $currentGroup = '默认分组';
+    $lines = explode("\n", trim($raw));
+    $lineCount = count($lines);
+    
+    for ($i = 0; $i < $lineCount; $i++) {
+        $line = trim($lines[$i]);
+        if (empty($line)) continue;
 
-        // 解析新格式：分组|频道名称,Smart//:id=频道ID
-        if (strpos($line, '|') !== false && strpos($line, 'Smart//:id=') !== false) {
+        // 处理M3U格式
+        if (strpos($line, '#EXTINF') === 0) {
+            // 解析元数据
+            $meta = [
+                'group' => $currentGroup,
+                'id' => '',
+                'name' => ''
+            ];
+            
+            // 提取group-title
+            if (preg_match('/group-title="([^"]+)"/', $line, $matches)) {
+                $meta['group'] = $matches[1];
+            }
+            
+            // 提取tvg-id
+            if (preg_match('/tvg-id="([^"]+)"/', $line, $matches)) {
+                $meta['id'] = $matches[1];
+            }
+            
+            // 提取频道名称（最后一个逗号后的内容）
+            $nameStart = strrpos($line, ',');
+            if ($nameStart !== false) {
+                $meta['name'] = trim(substr($line, $nameStart + 1));
+            }
+            
+            // 检查下一行是否是播放地址
+            if ($i + 1 < $lineCount) {
+                $nextLine = trim($lines[$i + 1]);
+                if (strpos($nextLine, 'Smart//:id=') === 0) {
+                    // 如果tvg-id为空，使用播放地址中的ID
+                    if (empty($meta['id'])) {
+                        $meta['id'] = substr($nextLine, strlen('Smart//:id='));
+                    }
+                    $i++; // 跳过下一行
+                }
+            }
+            
+            if (!empty($meta['id'])) {
+                $list[] = [
+                    'id' => $meta['id'],
+                    'name' => $meta['name'],
+                    'group' => $meta['group'],
+                    'logo' => ''
+                ];
+            }
+        }
+        // 兼容旧格式：分组|频道名称,Smart//:id=频道ID
+        elseif (strpos($line, '|') !== false && strpos($line, 'Smart//:id=') !== false) {
             $parts = explode(',', $line);
             $groupAndName = explode('|', $parts[0]);
             
             if (count($groupAndName) === 2) {
-                $group = trim($groupAndName[0]);
-                $name = trim($groupAndName[1]);
-                
-                // 提取ID
-                $idStart = strpos($parts[1], 'Smart//:id=') + strlen('Smart//:id=');
-                $id = substr($parts[1], $idStart);
-                
+                $id = substr($parts[1], strpos($parts[1], 'Smart//:id=') + 11);
                 $list[] = [
-                    'id'    => $id,
-                    'name'  => $name,
-                    'group' => $group,
-                    'logo'  => ''
+                    'id' => $id,
+                    'name' => trim($groupAndName[1]),
+                    'group' => trim($groupAndName[0]),
+                    'logo' => ''
                 ];
             }
         }
@@ -177,7 +221,6 @@ function getChannelList($forceRefresh = false) {
 
     return $list;
 }
-
 // 带重试机制的获取函数
 function fetchWithRetry($url, $maxRetries = 3) {
     $retryDelay = 500; // 毫秒
