@@ -1023,3 +1023,65 @@ Smart//:id=viet_danangtv2
 Smart//:id=viet_hbtv
 #EXTINF:-1 group-title="越南" tvg-id="viet_ptth1",越南|PTTH 1
 Smart//:id=viet_ptth1
+#EXTINF:-1 group-title="韩国" tvg-id="arirang_korea",韩国|Arirang HD
+Smart//:id=arirang_korea
+#EXTINF:-1 group-title="韩国" tvg-id="yonhapnews_korea",韩国|Yonhap News
+Smart//:id=yonhapnews_korea
+#EXTINF:-1 group-title="韩国" tvg-id="cbs_korea",韩国|CBS
+Smart//:id=cbs_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ebs1_korea",韩国|EBS 1
+Smart//:id=ebs1_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ebs2_korea",韩国|EBS2
+Smart//:id=ebs2_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ebsplus2_korea",韩国|EBS Plus2
+Smart//:id=ebsplus2_korea
+#EXTINF:-1 group-title="韩国" tvg-id="sbsplus_korea",韩国|SBS Plus
+Smart//:id=sbsplus_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ytn_korea",韩国|YTN
+Smart//:id=ytn_korea
+#EXTINF:-1 group-title="韩国" tvg-id="kbsworld24_korea",韩国|KBS World 24
+Smart//:id=kbsworld24_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ytnscience_korea",韩国|YTN Science
+Smart//:id=ytnscience_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ytnkorean_korea",韩国|YTN Korean
+Smart//:id=ytnkorean_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ytndmb_korea",韩国|YTN DMB
+Smart//:id=ytndmb_korea
+#EXTINF:-1 group-title="韩国" tvg-id="appongoogle_korea",韩国|Apps TV
+Smart//:id=appongoogle_korea
+#EXTINF:-1 group-title="韩国" tvg-id="allthekpop_korea",韩国|All the Kpop
+Smart//:id=allthekpop_korea
+#EXTINF:-1 group-title="韩国" tvg-id="jthekpop_korea",韩国|J the Kpop
+Smart//:id=jthekpop_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ebskids_korea",韩国|EBS Kids
+Smart//:id=ebskids_korea
+#EXTINF:-1 group-title="韩国" tvg-id="cgntv_korea",韩国|CGNTV
+Smart//:id=cgntv_korea
+#EXTINF:-1 group-title="日本" tvg-id="nhkg_japan",日本|NHK-総合-2
+Smart//:id=nhkg_japan
+#EXTINF:-1 group-title="日本" tvg-id="nhke_japan",日本|NHK-E
+Smart//:id=nhke_japan
+#EXTINF:-1 group-title="日本" tvg-id="asahitv_japan",日本|テレビ朝日 Asahi TV
+Smart//:id=asahitv_japan
+#EXTINF:-1 group-title="日本" tvg-id="jettv_japan",日本|JET 綜合
+Smart//:id=jettv_japan
+#EXTINF:-1 group-title="日本" tvg-id="tokyotv_japan",日本|テレビ東京 Tokyo TV
+Smart//:id=tokyotv_japan
+#EXTINF:-1 group-title="日本" tvg-id="tokyomx_japan",日本|TOKYOMX
+Smart//:id=tokyomx_japan
+#EXTINF:-1 group-title="日本" tvg-id="nhkbs1_japan",日本|NHKBS1
+Smart//:id=nhkbs1_japan
+#EXTINF:-1 group-title="日本" tvg-id="nhkpremium_japan",日本|NHKBSプレミア Premium
+Smart//:id=nhkpremium_japan
+#EXTINF:-1 group-title="日本" tvg-id="bs181_japan",日本|BSジャパン 181
+Smart//:id=bs181_japan
+#EXTINF:-1 group-title="日本" tvg-id="bsfuji_japan",日本|BSフジ BS Fuji
+Smart//:id=bsfuji_japan
+#EXTINF:-1 group-title="日本" tvg-id="cna_japan",日本|CNA Japan
+Smart//:id=cna_japan
+#EXTINF:-1 group-title="日本" tvg-id="bstbs_japan",日本|BS-TBS
+Smart//:id=bstbs_japan
+#EXTINF:-1 group-title="日本" tvg-id="nhkosaka_japan",日本|NHK Oaska
+Smart//:id=nhkosaka_japan
+#EXTINF:-1 group-title="日本" tvg-id="nhkworld_japan",日本|NHK World
+Smart//:id=nhkworld_japan
