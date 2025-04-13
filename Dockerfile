@@ -2,7 +2,7 @@
 FROM php:8.2-cli
 
 # 将 stv.php 复制到容器
-COPY smt2.php /app/smt2.php
+COPY index.php /app/index.php
 COPY smart.txt /app/smart.txt
 
 # 设置工作目录
@@ -15,4 +15,4 @@ RUN apt-get update && apt-get install -y libzip-dev
 ENV PORT 8080
 
 # 启动 PHP 内置服务器
-CMD ["sh", "-c", "php -S 0.0.0.0:$PORT smt2.php"]
+CMD ["sh", "-c", "php -S 0.0.0.0:$PORT index.php"]
