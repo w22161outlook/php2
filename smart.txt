@@ -25,6 +25,30 @@ Smart//:id=viu1_twn
 Smart//:id=rhk32_twn
 #EXTINF:-1 group-title="香港" tvg-id="viusix_twn",香港|Viu6
 Smart//:id=viusix_twn
+#EXTINF:-1 group-title="香港" tvg-id="Tvbjade",华丽翡翠台|TVB Jade
+Smart//:id=Tvbjade
+#EXTINF:-1 group-title="香港" tvg-id="Xinhe",TVB星河|TVB Star River
+Smart//:id=Xinhe
+#EXTINF:-1 group-title="香港" tvg-id="Tvbclassic",千禧经典台|TVB Classic
+Smart//:id=Tvbclassic
+#EXTINF:-1 group-title="香港" tvg-id="meiyamovie_twn",美亚电影台|Mei Ya Movie
+Smart//:id=meiyamovie_twn
+#EXTINF:-1 group-title="香港" tvg-id="Celestial",天映频道|Celestial Movies
+Smart//:id=Celestial
+#EXTINF:-1 group-title="香港" tvg-id="Celestial2",天映经典|Celestial Classic
+Smart//:id=Celestial2
+#EXTINF:-1 group-title="香港" tvg-id="TV8",八度空间|8 Degrees
+Smart//:id=TV8
+#EXTINF:-1 group-title="香港" tvg-id="Aodhd",Astro AOD|Astro AOD
+Smart//:id=Aodhd
+#EXTINF:-1 group-title="香港" tvg-id="AEC",Astro AEC|Astro AEC
+Smart//:id=AEC
+#EXTINF:-1 group-title="香港" tvg-id="Qiyi",爱奇艺|iQIYI
+Smart//:id=Qiyi
+#EXTINF:-1 group-title="香港" tvg-id="Quanjia",Astro QJ|Astro QJ
+Smart//:id=Quanjia
+#EXTINF:-1 group-title="香港" tvg-id="Huahee",Astro欢喜台|Astro Hua Hei
+Smart//:id=Huahee
 #EXTINF:-1 group-title="中国" tvg-id="cctv1",中国|CCTV-1 综合 HD
 Smart//:id=cctv1
 #EXTINF:-1 group-title="中国" tvg-id="cctv2",中国|CCTV-2 财经
