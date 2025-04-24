@@ -1,223 +1,606 @@
 #EXTM3U
-#EXTINF:-1 group-title="香港" tvg-id="j2_twn",香港|J2
-Smart//:id=j2_twn
-#EXTINF:-1 group-title="香港" tvg-id="rhk31_twn",香港|RHK 31
-Smart//:id=rhk31_twn
-#EXTINF:-1 group-title="香港" tvg-id="rhk32_twn",香港|RHK 32
-Smart//:id=rhk32_twn
-#EXTINF:-1 group-title="香港" tvg-id="tvbxinhe_twn",香港|TVB 星河
-Smart//:id=tvbxinhe_twn
-#EXTINF:-1 group-title="香港" tvg-id="viu1_twn",香港|VIUTV1
-Smart//:id=viu1_twn
-#EXTINF:-1 group-title="香港" tvg-id="viutv69_hkdavid",香港|Viu TV 69
-Smart//:id=viutv69_hkdavid
-#EXTINF:-1 group-title="香港" tvg-id="viusix_twn",香港|Viu6
-Smart//:id=viusix_twn
-#EXTINF:-1 group-title="香港" tvg-id="inews_twn",香港|iNews 新聞台
-Smart//:id=inews_twn
-#EXTINF:-1 group-title="香港" tvg-id="tvbcaijing_twn",香港|無線財經資訊台
-Smart//:id=tvbcaijing_twn
-#EXTINF:-1 group-title="香港" tvg-id="pearl_twn",香港|珍珠台
-Smart//:id=pearl_twn
+#EXTINF:-1 group-title="香港" tvg-id="hkphoenix_twn",香港|凤凰香港
+Smart//:id=hkphoenix_twn
+#EXTINF:-1 group-title="香港" tvg-id="phoenixtv_hd",香港|凤凰卫视
+Smart//:id=phoenixtv_hd
+#EXTINF:-1 group-title="香港" tvg-id="phoenixinfo_hd",香港|凤凰资讯
+Smart//:id=phoenixinfo_hd
 #EXTINF:-1 group-title="香港" tvg-id="jade_twn",香港|翡翠台
 Smart//:id=jade_twn
-#EXTINF:-1 group-title="香港" tvg-id="phoenixtv_hd",香港|鳳凰衛視
+#EXTINF:-1 group-title="香港" tvg-id="Jade_xue",香港|翡翠台 backup
+Smart//:id=Jade_xue
+#EXTINF:-1 group-title="香港" tvg-id="inews_twn",香港|iNews 新闻台
+Smart//:id=inews_twn
+#EXTINF:-1 group-title="香港" tvg-id="j2_twn",香港|J 2
+Smart//:id=j2_twn
+#EXTINF:-1 group-title="香港" tvg-id="pearl_twn",香港|珍珠台
+Smart//:id=pearl_twn
+#EXTINF:-1 group-title="香港" tvg-id="hoycaijing_twn",香港|HOY资讯台
+Smart//:id=hoycaijing_twn
+#EXTINF:-1 group-title="香港" tvg-id="rhk31_twn",香港|RHK 31
+Smart//:id=rhk31_twn
+#EXTINF:-1 group-title="香港" tvg-id="viu1_twn",香港|VIUTV1
+Smart//:id=viu1_twn
+#EXTINF:-1 group-title="香港" tvg-id="rhk32_twn",香港|RHK 32
+Smart//:id=rhk32_twn
+#EXTINF:-1 group-title="香港" tvg-id="viusix_twn",香港|Viu6
+Smart//:id=viusix_twn
+#EXTINF:-1 group-title="香港" tvg-id="Tvbjade",华丽翡翠台|TVB Jade
+Smart//:id=Tvbjade
+#EXTINF:-1 group-title="香港" tvg-id="Xinhe",TVB星河|TVB Star River
+Smart//:id=Xinhe
+#EXTINF:-1 group-title="香港" tvg-id="Tvbclassic",千禧经典台|TVB Classic
+Smart//:id=Tvbclassic
+#EXTINF:-1 group-title="香港" tvg-id="meiyamovie_twn",美亚电影台|Mei Ya Movie
+Smart//:id=meiyamovie_twn
+#EXTINF:-1 group-title="香港" tvg-id="Celestial",天映频道|Celestial Movies
+Smart//:id=Celestial
+#EXTINF:-1 group-title="香港" tvg-id="Celestial2",天映经典|Celestial Classic
+Smart//:id=Celestial2
+#EXTINF:-1 group-title="香港" tvg-id="TV8",八度空间|8 Degrees
+Smart//:id=TV8
+#EXTINF:-1 group-title="香港" tvg-id="Aodhd",Astro AOD|Astro AOD
+Smart//:id=Aodhd
+#EXTINF:-1 group-title="香港" tvg-id="AEC",Astro AEC|Astro AEC
+Smart//:id=AEC
+#EXTINF:-1 group-title="香港" tvg-id="Qiyi",爱奇艺|iQIYI
+Smart//:id=Qiyi
+#EXTINF:-1 group-title="香港" tvg-id="Quanjia",Astro QJ|Astro QJ
+Smart//:id=Quanjia
+#EXTINF:-1 group-title="香港" tvg-id="Huahee",Astro欢喜台|Astro Hua Hei
+Smart//:id=Huahee
+#EXTINF:-1 group-title="中国" tvg-id="cctv1",中国|CCTV-1 综合 HD
+Smart//:id=cctv1
+#EXTINF:-1 group-title="中国" tvg-id="cctv2",中国|CCTV-2 财经
+Smart//:id=cctv2
+#EXTINF:-1 group-title="中国" tvg-id="cctv3",中国|CCTV-3 综艺 HD
+Smart//:id=cctv3
+#EXTINF:-1 group-title="中国" tvg-id="cctv4",中国|CCTV-4 中文国际
+Smart//:id=cctv4
+#EXTINF:-1 group-title="中国" tvg-id="Cctv4",中国|CCTV4 新闻台
+Smart//:id=Cctv4
+#EXTINF:-1 group-title="中国" tvg-id="cctv7",中国|CCTV-7 军事农业
+Smart//:id=cctv7
+#EXTINF:-1 group-title="中国" tvg-id="cctv8hd",中国|CCTV-8 电视剧 HD
+Smart//:id=cctv8hd
+#EXTINF:-1 group-title="中国" tvg-id="cctv9hd",中国|CCTV-9 记录 HD
+Smart//:id=cctv9hd
+#EXTINF:-1 group-title="中国" tvg-id="cctv10hd",中国|CCTV-10 科教 HD
+Smart//:id=cctv10hd
+#EXTINF:-1 group-title="中国" tvg-id="cctv11",中国|CCTV-11 戏曲
+Smart//:id=cctv11
+#EXTINF:-1 group-title="中国" tvg-id="cctv12",中国|CCTV-12 社会与法
+Smart//:id=cctv12
+#EXTINF:-1 group-title="中国" tvg-id="cctv13",中国|CCTV-13 新闻频道
+Smart//:id=cctv13
+#EXTINF:-1 group-title="中国" tvg-id="cctv14",中国|CCTV-14 少儿
+Smart//:id=cctv14
+#EXTINF:-1 group-title="中国" tvg-id="cctv6",中国|CCTV-6
+Smart//:id=cctv6
+#EXTINF:-1 group-title="中国" tvg-id="cctv15",中国|CCTV-15 音乐
+Smart//:id=cctv15
+#EXTINF:-1 group-title="中国" tvg-id="hunan_twn",中国|湖南卫视
+Smart//:id=hunan_twn
+#EXTINF:-1 group-title="中国" tvg-id="zhejiang_twn",中国|浙江卫视
+Smart//:id=zhejiang_twn
+#EXTINF:-1 group-title="中国" tvg-id="jiangsu_twn",中国|江苏卫视
+Smart//:id=jiangsu_twn
+#EXTINF:-1 group-title="中国" tvg-id="shenzhen",中国|深圳卫视
+Smart//:id=shenzhen
+#EXTINF:-1 group-title="中国" tvg-id="fujian",中国|福建东南卫视
+Smart//:id=fujian
+#EXTINF:-1 group-title="中国" tvg-id="nanfang_twn",中国|广东南方卫视
+Smart//:id=nanfang_twn
+#EXTINF:-1 group-title="中国" tvg-id="guangdongweishi_twn",中国|广东卫视
+Smart//:id=guangdongweishi_twn
+#EXTINF:-1 group-title="中国" tvg-id="beijing",中国|北京卫视
+Smart//:id=beijing
+#EXTINF:-1 group-title="中国" tvg-id="zhujiang",中国|珠江台
+Smart//:id=zhujiang
+#EXTINF:-1 group-title="中国" tvg-id="guangxi",中国|广西卫视
+Smart//:id=guangxi
+#EXTINF:-1 group-title="中国" tvg-id="hubei",中国|湖北卫视
+Smart//:id=hubei
+#EXTINF:-1 group-title="中国" tvg-id="sichuan_twn",中国|四川卫视
+Smart//:id=sichuan_twn
+#EXTINF:-1 group-title="中国" tvg-id="dongfangweishi_twn",中国|东方卫视
+Smart//:id=dongfangweishi_twn
+#EXTINF:-1 group-title="中国" tvg-id="CGTN",中国|CGTN
+Smart//:id=CGTN
+#EXTINF:-1 group-title="中国" tvg-id="phoenixtv_hd",中国|凤凰卫视
 Smart//:id=phoenixtv_hd
-#EXTINF:-1 group-title="香港" tvg-id="phoenixinfo_hd",香港|鳳凰資訊
+#EXTINF:-1 group-title="中国" tvg-id="phoenixinfo_hd",中国|凤凰资讯
 Smart//:id=phoenixinfo_hd
-#EXTINF:-1 group-title="香港" tvg-id="hkphoenix_twn",香港|鳳凰香港
-Smart//:id=hkphoenix_twn
-#EXTINF:-1 group-title="台湾" tvg-id="axn_twn",台湾|AXN
-Smart//:id=axn_twn
-#EXTINF:-1 group-title="台湾" tvg-id="cinemax_twn",台湾|CINEMAX
-Smart//:id=cinemax_twn
-#EXTINF:-1 group-title="台湾" tvg-id="eyetvxiju_twn",台湾|EYE戏剧
-Smart//:id=eyetvxiju_twn
-#EXTINF:-1 group-title="台湾" tvg-id="eyetvtravel_twn",台湾|EYE旅游
-Smart//:id=eyetvtravel_twn
-#EXTINF:-1 group-title="台湾" tvg-id="hbohd_twn",台湾|HBO
-Smart//:id=hbohd_twn
-#EXTINF:-1 group-title="台湾" tvg-id="fyi_twn",台湾|HBO Family
-Smart//:id=fyi_twn
-#EXTINF:-1 group-title="台湾" tvg-id="hollywoodmovies_twn",台湾|好莱坞电影台
-Smart//:id=hollywoodmovies_twn
-#EXTINF:-1 group-title="台湾" tvg-id="mtvhd_twn",台湾|MTV Live
-Smart//:id=mtvhd_twn
-#EXTINF:-1 group-title="台湾" tvg-id="tlc_twn",台湾|TLC旅游生活
-Smart//:id=tlc_twn
-#EXTINF:-1 group-title="台湾" tvg-id="ettvnews",台湾|东森新闻
-Smart//:id=ettvnews
+#EXTINF:-1 group-title="中国" tvg-id="cctv5",中国|CCTV-5 体育频道
+Smart//:id=cctv5
+#EXTINF:-1 group-title="中国" tvg-id="cctv5plus",中国|CCTV-5+ 体育赛事 HD
+Smart//:id=cctv5plus
+#EXTM3U
+#EXTINF:-1 group-title="体育频道" tvg-id="go_assp1",体育频道|Astro Premier League 1
+Smart//:id=go_assp1
+#EXTINF:-1 group-title="体育频道" tvg-id="go_assp1x",体育频道|Astro EPL 1 backup
+Smart//:id=go_assp1x
+#EXTINF:-1 group-title="体育频道" tvg-id="go_assp2",体育频道|Astro Premier League 2
+Smart//:id=go_assp2
+#EXTINF:-1 group-title="体育频道" tvg-id="go_assp3",体育频道|Astro Grandstand
+Smart//:id=go_assp3
+#EXTINF:-1 group-title="体育频道" tvg-id="go_assp4",体育频道|Astro Football
+Smart//:id=go_assp4
+#EXTINF:-1 group-title="体育频道" tvg-id="go_sportsplus",体育频道|Astro Sports Plus
+Smart//:id=go_sportsplus
+#EXTINF:-1 group-title="体育频道" tvg-id="go_badminton1",体育频道|Astro Badminton 1
+Smart//:id=go_badminton1
+#EXTINF:-1 group-title="体育频道" tvg-id="go_badminton2",体育频道|Astro Badminton 2
+Smart//:id=go_badminton2
+#EXTINF:-1 group-title="体育频道" tvg-id="go_assp5",体育频道|Astro W-Sports
+Smart//:id=go_assp5
+#EXTINF:-1 group-title="体育频道" tvg-id="Assp1",体育频道|Supersports 1
+Smart//:id=Assp1
+#EXTINF:-1 group-title="体育频道" tvg-id="Assp2",体育频道|Supersports 2
+Smart//:id=Assp2
+#EXTINF:-1 group-title="体育频道" tvg-id="Assp3",体育频道|Supersports 3
+Smart//:id=Assp3
+#EXTINF:-1 group-title="体育频道" tvg-id="Assp4",体育频道|Supersports 4
+Smart//:id=Assp4
+#EXTINF:-1 group-title="体育频道" tvg-id="Wwe",体育频道|WWE
+Smart//:id=Wwe
+#EXTINF:-1 group-title="体育频道" tvg-id="Fs",体育频道|Fight Sports
+Smart//:id=Fs
+#EXTINF:-1 group-title="体育频道" tvg-id="Nba",体育频道|NBA TV
+Smart//:id=Nba
+#EXTINF:-1 group-title="体育频道" tvg-id="Acricket",体育频道|Astro Cricket
+Smart//:id=Acricket
+#EXTINF:-1 group-title="体育频道" tvg-id="Agolf",体育频道|Astro Golf
+Smart//:id=Agolf
+#EXTINF:-1 group-title="体育频道" tvg-id="6fac0aaead",体育频道|Tnt Sports 1
+Smart//:id=6fac0aaead
+#EXTINF:-1 group-title="体育频道" tvg-id="d9a76a79cc",体育频道|TNT Sports 2
+Smart//:id=d9a76a79cc
+#EXTINF:-1 group-title="体育频道" tvg-id="5fea4d73db",体育频道|TNT Sports 3
+Smart//:id=5fea4d73db
+#EXTINF:-1 group-title="体育频道" tvg-id="tntsport4",体育频道|TNT Sports 4
+Smart//:id=tntsport4
+#EXTINF:-1 group-title="体育频道" tvg-id="ten1_raj",体育频道|Sony Ten 1
+Smart//:id=ten1_raj
+#EXTINF:-1 group-title="体育频道" tvg-id="ten2_raj",体育频道|Sony Ten 2
+Smart//:id=ten2_raj
+#EXTINF:-1 group-title="体育频道" tvg-id="ten3_raj",体育频道|Sony Ten 3
+Smart//:id=ten3_raj
+#EXTINF:-1 group-title="体育频道" tvg-id="go_spotv",体育频道|SPOTV 1 HD
+Smart//:id=go_spotv
+#EXTINF:-1 group-title="体育频道" tvg-id="go_spotv2",体育频道|SPO TV 2
+Smart//:id=go_spotv2
+#EXTINF:-1 group-title="体育频道" tvg-id="tiankongf1",体育频道|Skysports F1
+Smart//:id=tiankongf1
+#EXTINF:-1 group-title="体育频道" tvg-id="tiankongcricket",体育频道|Skysports Cricket
+Smart//:id=tiankongcricket
+#EXTINF:-1 group-title="体育频道" tvg-id="tiankongepl",体育频道|Skysports EPL
+Smart//:id=tiankongepl
+#EXTINF:-1 group-title="体育频道" tvg-id="tiankongmain",体育频道|Skysports Main Event
+Smart//:id=tiankongmain
+#EXTINF:-1 group-title="体育频道" tvg-id="tiankongnews",体育频道|Skysports News
+Smart//:id=tiankongnews
+#EXTINF:-1 group-title="体育频道" tvg-id="tiankongmix",体育频道|Skysports Mix
+Smart//:id=tiankongmix
+#EXTINF:-1 group-title="体育频道" tvg-id="cctv5",体育频道|CCTV-5 体育频道
+Smart//:id=cctv5
+#EXTINF:-1 group-title="体育频道" tvg-id="cctv5plus",体育频道|CCTV-5+ 体育赛事 HD
+Smart//:id=cctv5plus
+#EXTINF:-1 group-title="体育频道" tvg-id="eltasport2_twn",体育频道|爱尔达体育2台
+Smart//:id=eltasport2_twn
+#EXTINF:-1 group-title="体育频道" tvg-id="eltasport3_twn",体育频道|爱尔达体育3台
+Smart//:id=eltasport3_twn
+#EXTINF:-1 group-title="体育频道" tvg-id="Rugbypasstv",体育频道|Rugby Pass TV
+Smart//:id=Rugbypasstv
+#EXTINF:-1 group-title="体育频道" tvg-id="Rtmsport",体育频道|RTM Sports HD
+Smart//:id=Rtmsport
+#EXTINF:-1 group-title="体育频道" tvg-id="Arena",体育频道|Arena
+Smart//:id=Arena
+#EXTINF:-1 group-title="体育频道" tvg-id="Arena2",体育频道|Arena 2
+Smart//:id=Arena2
+#EXTINF:-1 group-title="体育频道" tvg-id="Bolaarena1",体育频道|BolaArena 1
+Smart//:id=Bolaarena1
+#EXTINF:-1 group-title="体育频道" tvg-id="Bolaarena2",体育频道|BolaArena 2
+Smart//:id=Bolaarena2
+#EXTINF:-1 group-title="体育频道" tvg-id="Astrobein1",体育频道|Astro Beinsports 1
+Smart//:id=Astrobein1
+#EXTINF:-1 group-title="体育频道" tvg-id="Astrobein2",体育频道|Astro Beinsports 2
+Smart//:id=Astrobein2
+#EXTINF:-1 group-title="体育频道" tvg-id="Astrobein3",体育频道|Astro Beinsports 3
+Smart//:id=Astrobein3
+#EXTINF:-1 group-title="台湾" tvg-id="tvbs_n",台湾|TVBS News 新闻台
+Smart//:id=tvbs_n
+#EXTINF:-1 group-title="台湾" tvg-id="tvbshuanle_twn",台湾|TVBS 欢乐台 （备份）
+Smart//:id=tvbshuanle_twn
 #EXTINF:-1 group-title="台湾" tvg-id="tvbs",台湾|TVBS HD
 Smart//:id=tvbs
-#EXTINF:-1 group-title="台湾" tvg-id="tvbs_n",台湾|TVBS新闻台
-Smart//:id=tvbs_n
-#EXTINF:-1 group-title="台湾" tvg-id="tvbshuanle_twn",台湾|TVBS欢乐台
-Smart//:id=tvbshuanle_twn
-#EXTINF:-1 group-title="台湾" tvg-id="sanlitaiwan",台湾|三立台湾台
-Smart//:id=sanlitaiwan
-#EXTINF:-1 group-title="台湾" tvg-id="sanlixiju_twn",台湾|三立戏剧台
-Smart//:id=sanlixiju_twn
-#EXTINF:-1 group-title="台湾" tvg-id="sanlizhonghe",台湾|三立综合台
-Smart//:id=sanlizhonghe
+#EXTINF:-1 group-title="台湾" tvg-id="ctinews",台湾|中天新闻 HD
+Smart//:id=ctinews
+#EXTINF:-1 group-title="台湾" tvg-id="ctient",台湾|中天娱乐 CTI Entertaiment
+Smart//:id=ctient
+#EXTINF:-1 group-title="台湾" tvg-id="ctizhonghe",台湾|中天综合 CTI Metro
+Smart//:id=ctizhonghe
 #EXTINF:-1 group-title="台湾" tvg-id="ctiasia_twn",台湾|中天亚洲台
 Smart//:id=ctiasia_twn
-#EXTINF:-1 group-title="台湾" tvg-id="ctient",台湾|中天娱乐
-Smart//:id=ctient
-#EXTINF:-1 group-title="台湾" tvg-id="ctinews",台湾|中天新闻HD
-Smart//:id=ctinews
-#EXTINF:-1 group-title="台湾" tvg-id="ctizhonghe",台湾|中天综合
-Smart//:id=ctizhonghe
-#EXTINF:-1 group-title="台湾" tvg-id="asiatravel_twn",台湾|亚洲旅游台
-Smart//:id=asiatravel_twn
-#EXTINF:-1 group-title="台湾" tvg-id="afc_twn",台湾|亚洲美食
-Smart//:id=afc_twn
-#EXTINF:-1 group-title="台湾" tvg-id="badadrama",台湾|八大戏剧
-Smart//:id=badadrama
-#EXTINF:-1 group-title="台湾" tvg-id="badafirst",台湾|八大第一
-Smart//:id=badafirst
-#EXTINF:-1 group-title="台湾" tvg-id="badazhonghe",台湾|八大综合
-Smart//:id=badazhonghe
-#EXTINF:-1 group-title="台湾" tvg-id="ctv_taiwan",台湾|公视
-Smart//:id=ctv_taiwan
-#EXTINF:-1 group-title="台湾" tvg-id="ftvhd_taiwan",台湾|民视
-Smart//:id=ftvhd_taiwan
-#EXTINF:-1 group-title="台湾" tvg-id="lunghuajingdian_twn",台湾|民视第一台
-Smart//:id=lunghuajingdian_twn
-#EXTINF:-1 group-title="台湾" tvg-id="ftvtaiwan_twn",台湾|民视台湾台
-Smart//:id=ftvtaiwan_twn
-#EXTINF:-1 group-title="台湾" tvg-id="ftvnew_taiwan",台湾|民视新闻台
-Smart//:id=ftvnew_taiwan
-#EXTINF:-1 group-title="台湾" tvg-id="ttv_taiwan",台湾|台视
+#EXTINF:-1 group-title="台湾" tvg-id="ttv_taiwan",台湾|台视 TTV HD
 Smart//:id=ttv_taiwan
 #EXTINF:-1 group-title="台湾" tvg-id="ttvnews_twn",台湾|台视新闻台
 Smart//:id=ttvnews_twn
-#EXTINF:-1 group-title="台湾" tvg-id="zhongshihd_twn",台湾|中视
+#EXTINF:-1 group-title="台湾" tvg-id="ttvzhonghe",台湾|台视综合台
+Smart//:id=ttvzhonghe
+#EXTINF:-1 group-title="台湾" tvg-id="zhongshihd_twn",台湾|中视 HD
 Smart//:id=zhongshihd_twn
 #EXTINF:-1 group-title="台湾" tvg-id="zhongshinews_twn",台湾|中视新闻台
 Smart//:id=zhongshinews_twn
-#EXTINF:-1 group-title="台湾" tvg-id="zhongshi_twn",台湾|中视经典
-Smart//:id=zhongshi_twn
-#EXTINF:-1 group-title="台湾" tvg-id="ctshd_twn",台湾|华视
+#EXTINF:-1 group-title="台湾" tvg-id="ftvhd_taiwan",台湾|民视 HD
+Smart//:id=ftvhd_taiwan
+#EXTINF:-1 group-title="台湾" tvg-id="ftvnew_taiwan",台湾|民视新闻台 FTV News
+Smart//:id=ftvnew_taiwan
+#EXTINF:-1 group-title="台湾" tvg-id="ftvtaiwan_twn",台湾|民视台湾台
+Smart//:id=ftvtaiwan_twn
+#EXTINF:-1 group-title="台湾" tvg-id="ctshd_twn",台湾|华视 CTS HD
 Smart//:id=ctshd_twn
-#EXTINF:-1 group-title="台湾" tvg-id="weishichinese_twn",台湾|华艺综合
-Smart//:id=weishichinese_twn
-#EXTINF:-1 group-title="台湾" tvg-id="daai_twn",台湾|大爱一台
-Smart//:id=daai_twn
+#EXTINF:-1 group-title="台湾" tvg-id="ctv18_twn",台湾|公视 CTV
+Smart//:id=ctv18_twn
+#EXTINF:-1 group-title="台湾" tvg-id="badafirst",台湾|八大第一 GTV First
+Smart//:id=badafirst
+#EXTINF:-1 group-title="台湾" tvg-id="badazhonghe",台湾|八大综合 GTV Metro
+Smart//:id=badazhonghe
+#EXTINF:-1 group-title="台湾" tvg-id="badadrama",台湾|八大戏剧 GTV Drama
+Smart//:id=badadrama
+#EXTINF:-1 group-title="台湾" tvg-id="badaentertain",台湾|八大娱乐 GTV Entertainment
+Smart//:id=badaentertain
+#EXTINF:-1 group-title="台湾" tvg-id="hbohd_twn",台湾|HBO_HD
+Smart//:id=hbohd_twn
+#EXTINF:-1 group-title="台湾" tvg-id="hbohit_twn",台湾|HBO_HITS
+Smart//:id=hbohit_twn
+#EXTINF:-1 group-title="台湾" tvg-id="hollywoodmovies_twn",台湾|Hollywood Movies
+Smart//:id=hollywoodmovies_twn
+#EXTINF:-1 group-title="台湾" tvg-id="sanlitaiwan",台湾|三立台湾 Sanli Taiwan
+Smart//:id=sanlitaiwan
+#EXTINF:-1 group-title="台湾" tvg-id="sanlixiju_twn",台湾|三立戏剧台
+Smart//:id=sanlixiju_twn
+#EXTINF:-1 group-title="台湾" tvg-id="sanlizhonghe",台湾|三立综合 Sanli Metro
+Smart//:id=sanlizhonghe
+#EXTINF:-1 group-title="台湾" tvg-id="sanlidouhui",台湾|三立都会台
+Smart//:id=sanlidouhui
+#EXTINF:-1 group-title="台湾" tvg-id="ettvnews",台湾|东森新闻 ETTV News
+Smart//:id=ettvnews
+#EXTINF:-1 group-title="台湾" tvg-id="cinemax_twn",台湾|CINEMAX
+Smart//:id=cinemax_twn
+#EXTINF:-1 group-title="台湾" tvg-id="ettvzhonghe",台湾|东森综合 ETTV Metro
+Smart//:id=ettvzhonghe
+#EXTINF:-1 group-title="台湾" tvg-id="ettvdrama",台湾|东森戏剧 ETTV Drama
+Smart//:id=ettvdrama
+#EXTINF:-1 group-title="台湾" tvg-id="ettvsuper",台湾|东森超视
+Smart//:id=ettvsuper
+#EXTINF:-1 group-title="台湾" tvg-id="ettvcaijing_twn",台湾|东森财经新闻 ETTV Business
+Smart//:id=ettvcaijing_twn
+#EXTINF:-1 group-title="台湾" tvg-id="huanyutaiwan_twn",台湾|寰宇财经
+Smart//:id=huanyutaiwan_twn
 #EXTINF:-1 group-title="台湾" tvg-id="huanyuxinwen_twn",台湾|寰宇新闻台
 Smart//:id=huanyuxinwen_twn
-#EXTINF:-1 group-title="台湾" tvg-id="huanyutaiwan_twn",台湾|寰宇财经台
-Smart//:id=huanyutaiwan_twn
-#EXTINF:-1 group-title="台湾" tvg-id="niandainews_twn",台湾|年代新闻台
-Smart//:id=niandainews_twn
-#EXTINF:-1 group-title="台湾" tvg-id="eltayingju_twn",台湾|爱尔达影剧
-Smart//:id=eltayingju_twn
-#EXTINF:-1 group-title="台湾" tvg-id="eltasport_twn",台湾|爱尔达体育 1
-Smart//:id=eltasport_twn
-#EXTINF:-1 group-title="台湾" tvg-id="eltasport2_twn",台湾|爱尔达体育 2
-Smart//:id=eltasport2_twn
-#EXTINF:-1 group-title="台湾" tvg-id="eltasport3_twn",台湾|爱尔达体育 3
-Smart//:id=eltasport3_twn
-#EXTINF:-1 group-title="台湾" tvg-id="golfchannel_twn",台湾|ELEVEN 1
-Smart//:id=golfchannel_twn
-#EXTINF:-1 group-title="台湾" tvg-id="bositennis_twn",台湾|博斯网球
-Smart//:id=bositennis_twn
-#EXTINF:-1 group-title="台湾" tvg-id="bosisport1_twn",台湾|博斯运动1
-Smart//:id=bosisport1_twn
-#EXTINF:-1 group-title="台湾" tvg-id="bosisport2_twn",台湾|博斯运动2
-Smart//:id=bosisport2_twn
-#EXTINF:-1 group-title="台湾" tvg-id="bosigolf1_twn",台湾|博斯高球1
-Smart//:id=bosigolf1_twn
-#EXTINF:-1 group-title="台湾" tvg-id="bosigolf2_twn",台湾|博斯高球2
-Smart//:id=bosigolf2_twn
-#EXTINF:-1 group-title="台湾" tvg-id="discoverytwn_twn",台湾|探索亚洲
-Smart//:id=discoverytwn_twn
-#EXTINF:-1 group-title="台湾" tvg-id="discoveryturbo_twn",台湾|探索动力
-Smart//:id=discoveryturbo_twn
-#EXTINF:-1 group-title="台湾" tvg-id="natgeohd_twn",台湾|国家地理
-Smart//:id=natgeohd_twn
-#EXTINF:-1 group-title="台湾" tvg-id="natgeowild_twn",台湾|野生动物
-Smart//:id=natgeowild_twn
-#EXTINF:-1 group-title="台湾" tvg-id="animalplanet_twn",台湾|动物星球
-Smart//:id=animalplanet_twn
-#EXTINF:-1 group-title="台湾" tvg-id="fashiontv_twn",台湾|时尚
-Smart//:id=fashiontv_twn
-#EXTINF:-1 group-title="台湾" tvg-id="discoverytwn_twn",台湾|Discovery Asia
-Smart//:id=discoverytwn_twn
-#EXTINF:-1 group-title="台湾" tvg-id="discoveryhd_twn",台湾|Discovery HD
-Smart//:id=discoveryhd_twn
-#EXTINF:-1 group-title="台湾" tvg-id="ettvdrama",台湾|东森戏剧
-Smart//:id=ettvdrama
-#EXTINF:-1 group-title="台湾" tvg-id="ettvwestern",台湾|东森洋片
-Smart//:id=ettvwestern
-#EXTINF:-1 group-title="台湾" tvg-id="ettvzhonghe",台湾|东森综合
-Smart//:id=ettvzhonghe
-#EXTINF:-1 group-title="台湾" tvg-id="ettvcaijing_twn",台湾|东森财经新闻
-Smart//:id=ettvcaijing_twn
-#EXTINF:-1 group-title="台湾" tvg-id="ettvmovie",台湾|东森电影
-Smart//:id=ettvmovie
-#EXTINF:-1 group-title="台湾" tvg-id="videolandjapan",台湾|纬来日本台
-Smart//:id=videolandjapan
-#EXTINF:-1 group-title="台湾" tvg-id="videolandsport",台湾|纬来体育台
-Smart//:id=videolandsport
-#EXTINF:-1 group-title="台湾" tvg-id="meiyamovie_twn",台湾|美亚电影
-Smart//:id=meiyamovie_twn
-#EXTINF:-1 group-title="台湾" tvg-id="bbcnews_twn",台湾|BBC World News
-Smart//:id=bbcnews_twn
-#EXTINF:-1 group-title="台湾" tvg-id="bloomberg_twn",台湾|Bloomberg News
-Smart//:id=bloomberg_twn
-#EXTINF:-1 group-title="台湾" tvg-id="foxnews_twn",台湾|Fox News
-Smart//:id=foxnews_twn
-#EXTINF:-1 group-title="台湾" tvg-id="arirang_twn",台湾|阿里郎
-Smart//:id=arirang_twn
-#EXTINF:-1 group-title="台湾" tvg-id="momo1_twn",台湾|CN卡通
-Smart//:id=momo1_twn
-#EXTINF:-1 group-title="台湾" tvg-id="jingtiancartoon_twn",台湾|靖天卡通台
-Smart//:id=jingtiancartoon_twn
-#EXTINF:-1 group-title="台湾" tvg-id="jingtianintl_twn",台湾|靖天国际台
-Smart//:id=jingtianintl_twn
+#EXTINF:-1 group-title="台湾" tvg-id="ctv2_twn",台湾|公视2
+Smart//:id=ctv2_twn
+#EXTINF:-1 group-title="台湾" tvg-id="daai_twn",台湾|大爱1台
+Smart//:id=daai_twn
 #EXTINF:-1 group-title="台湾" tvg-id="feifannews_twn",台湾|非凡新闻台
 Smart//:id=feifannews_twn
-#EXTINF:-1 group-title="台湾" tvg-id="lungxiangtime_twn",台湾|龙祥时代
-Smart//:id=lungxiangtime_twn
+#EXTINF:-1 group-title="台湾" tvg-id="lunghuaxiju_twn",台湾|龙华戏剧 Lunghua Drama
+Smart//:id=lunghuaxiju_twn
+#EXTINF:-1 group-title="台湾" tvg-id="lunghuajingdian_twn",台湾|龙华经典台
+Smart//:id=lunghuajingdian_twn
 #EXTINF:-1 group-title="台湾" tvg-id="lunghuaidol_twn",台湾|龙华偶像
 Smart//:id=lunghuaidol_twn
-#EXTINF:-1 group-title="台湾" tvg-id="lunghuaxiju_twn",台湾|龙华戏剧
-Smart//:id=lunghuaxiju_twn
-#EXTINF:-1 group-title="台湾" tvg-id="lunghuawestern_twn",台湾|龙华洋片
+#EXTINF:-1 group-title="台湾" tvg-id="axn_twn",台湾|AXN Taiwan
+Smart//:id=axn_twn
+#EXTINF:-1 group-title="台湾" tvg-id="jingtianintl_twn",台湾|靖天国际台
+Smart//:id=jingtianintl_twn
+#EXTINF:-1 group-title="台湾" tvg-id="niandainews_twn",台湾|年代新闻
+Smart//:id=niandainews_twn
+#EXTINF:-1 group-title="台湾" tvg-id="videolandjapan",台湾|纬来日本台
+Smart//:id=videolandjapan
+#EXTINF:-1 group-title="台湾" tvg-id="videolandmovie",台湾|纬来电影台
+Smart//:id=videolandmovie
+#EXTINF:-1 group-title="台湾" tvg-id="videolandsport",台湾|纬来体育台
+Smart//:id=videolandsport
+#EXTINF:-1 group-title="台湾" tvg-id="videolandzonghe",台湾|纬来综合台
+Smart//:id=videolandzonghe
+#EXTINF:-1 group-title="台湾" tvg-id="videolandyule",台湾|纬来育乐
+Smart//:id=videolandyule
+#EXTINF:-1 group-title="台湾" tvg-id="videolandspecial_twn",台湾|纬来精彩
+Smart//:id=videolandspecial_twn
+#EXTINF:-1 group-title="台湾" tvg-id="good2_twn",台湾|好消息 2
+Smart//:id=good2_twn
+#EXTINF:-1 group-title="台湾" tvg-id="daai2_twn",台湾|大爱2台
+Smart//:id=daai2_twn
+#EXTINF:-1 group-title="台湾" tvg-id="afc_twn",台湾|亚洲美食
+Smart//:id=afc_twn
+#EXTINF:-1 group-title="台湾" tvg-id="foodplanet_twn",台湾|美食星球
+Smart//:id=foodplanet_twn
+#EXTINF:-1 group-title="台湾" tvg-id="tlc_twn",台湾|亚洲旅游 TLC Asia
+Smart//:id=tlc_twn
+#EXTINF:-1 group-title="台湾" tvg-id="ettvmovie",台湾|东森电影 ETTV Movie
+Smart//:id=ettvmovie
+#EXTINF:-1 group-title="台湾" tvg-id="arirang_twn",台湾|阿里郎 Arirang
+Smart//:id=arirang_twn
+#EXTINF:-1 group-title="台湾" tvg-id="bosisport1_twn",台湾|博斯运动 1
+Smart//:id=bosisport1_twn
+#EXTINF:-1 group-title="台湾" tvg-id="bosisport2_twn",台湾|博斯运动 2
+Smart//:id=bosisport2_twn
+#EXTINF:-1 group-title="台湾" tvg-id="bosigolf2_twn",台湾|博斯高球2 HD
+Smart//:id=bosigolf2_twn
+#EXTINF:-1 group-title="台湾" tvg-id="bositennis_twn",台湾|博斯网球 HD
+Smart//:id=bositennis_twn
+#EXTINF:-1 group-title="台湾" tvg-id="ettvwestern",台湾|东森洋片 ETTV Western
+Smart//:id=ettvwestern
+#EXTINF:-1 group-title="台湾" tvg-id="lunghuawestern_twn",台湾|龙华洋片 Lunghua Western
 Smart//:id=lunghuawestern_twn
-#EXTINF:-1 group-title="台湾" tvg-id="lunghuajingdian_twn",台湾|龙华经典
-Smart//:id=lunghuajingdian_twn
-#EXTINF:-1 group-title="台湾" tvg-id="xingwei_movie",台湾|龙华电影
+#EXTINF:-1 group-title="台湾" tvg-id="bosiunlimited_twn",台湾|博斯无限
+Smart//:id=bosiunlimited_twn
+#EXTINF:-1 group-title="台湾" tvg-id="mtvhd_twn",台湾|MTV Live
+Smart//:id=mtvhd_twn
+#EXTINF:-1 group-title="台湾" tvg-id="lungxiangtime_twn",台湾|龙详时代
+Smart//:id=lungxiangtime_twn
+#EXTINF:-1 group-title="台湾" tvg-id="eyetvtravel_twn",台湾|EYETV 旅游
+Smart//:id=eyetvtravel_twn
+#EXTINF:-1 group-title="台湾" tvg-id="jingtiancartoon_twn",台湾|靖天卡通台
+Smart//:id=jingtiancartoon_twn
+#EXTINF:-1 group-title="台湾" tvg-id="eyetvxiju_twn",台湾|EYETV 戏剧
+Smart//:id=eyetvxiju_twn
+#EXTINF:-1 group-title="台湾" tvg-id="weishichinese_twn",台湾|卫视中文台 Star Movies Chinese
+Smart//:id=weishichinese_twn
+#EXTINF:-1 group-title="台湾" tvg-id="yoyo_twn",台湾|东森幼幼 Yoyo TV
+Smart//:id=yoyo_twn
+#EXTINF:-1 group-title="台湾" tvg-id="weishimovie_twn",台湾|卫视电影台
+Smart//:id=weishimovie_twn
+#EXTINF:-1 group-title="台湾" tvg-id="meiyamovie_twn",台湾|美亚电影
+Smart//:id=meiyamovie_twn
+#EXTINF:-1 group-title="台湾" tvg-id="eltayingju_twn",台湾|爱尔达影剧台
+Smart//:id=eltayingju_twn
+#EXTINF:-1 group-title="台湾" tvg-id="eltazonghe_twn",台湾|爱尔达综合台
+Smart//:id=eltazonghe_twn
+#EXTINF:-1 group-title="台湾" tvg-id="xingwei_movie",台湾|星卫电影
 Smart//:id=xingwei_movie
+#EXTINF:-1 group-title="台湾" tvg-id="eltayingju_twn",台湾|爱尔达影剧
+Smart//:id=eltayingju_twn
+#EXTINF:-1 group-title="台湾" tvg-id="asiatravel_twn",台湾|AFC 亚洲旅游台
+Smart//:id=asiatravel_twn
+#EXTINF:-1 group-title="台湾" tvg-id="eltasport2_twn",台湾|爱尔达体育2台
+Smart//:id=eltasport2_twn
+#EXTINF:-1 group-title="台湾" tvg-id="eltasport3_twn",台湾|爱尔达体育3台
+Smart//:id=eltasport3_twn
+#EXTM3U
+#EXTINF:-1 group-title="电影频道" tvg-id="hbohd_twn",电影频道|HBO_HD
+Smart//:id=hbohd_twn
+#EXTINF:-1 group-title="电影频道" tvg-id="hbohit_twn",电影频道|HBO_HITS
+Smart//:id=hbohit_twn
+#EXTINF:-1 group-title="电影频道" tvg-id="hollywoodmovies_twn",电影频道|Hollywood Movies
+Smart//:id=hollywoodmovies_twn
+#EXTINF:-1 group-title="电影频道" tvg-id="cctv6",电影频道|CCTV-6
+Smart//:id=cctv6
+#EXTINF:-1 group-title="电影频道" tvg-id="cinemax_twn",电影频道|CINEMAX
+Smart//:id=cinemax_twn
+#EXTINF:-1 group-title="电影频道" tvg-id="Cinemax",电影频道|Cinemax
+Smart//:id=Cinemax
+#EXTINF:-1 group-title="电影频道" tvg-id="axn_twn",电影频道|AXN Taiwan
+Smart//:id=axn_twn
+#EXTINF:-1 group-title="电影频道" tvg-id="daai2_twn",电影频道|大爱2台
+Smart//:id=daai2_twn
+#EXTINF:-1 group-title="电影频道" tvg-id="ettvmovie",电影频道|东森电影 ETTV Movie
+Smart//:id=ettvmovie
+#EXTINF:-1 group-title="电影频道" tvg-id="ettvwestern",电影频道|东森洋片 ETTV Western
+Smart//:id=ettvwestern
+#EXTINF:-1 group-title="电影频道" tvg-id="lunghuawestern_twn",电影频道|龙华洋片 Lunghua Western
+Smart//:id=lunghuawestern_twn
+#EXTINF:-1 group-title="电影频道" tvg-id="Animax",电影频道|Animax
+Smart//:id=Animax
+#EXTINF:-1 group-title="电影频道" tvg-id="lungxiangtime_twn",电影频道|龙详时代
+Smart//:id=lungxiangtime_twn
+#EXTINF:-1 group-title="电影频道" tvg-id="moviesnow_raj",电影频道|Movies Now HD
+Smart//:id=moviesnow_raj
+#EXTINF:-1 group-title="电影频道" tvg-id="starmovies_raj",电影频道|Star Movies HD
+Smart//:id=starmovies_raj
+#EXTINF:-1 group-title="电影频道" tvg-id="weishichinese_twn",电影频道|卫视中文台 Star Movies Chinese
+Smart//:id=weishichinese_twn
+#EXTINF:-1 group-title="电影频道" tvg-id="Hbofamily",电影频道|HBO Family
+Smart//:id=Hbofamily
+#EXTINF:-1 group-title="电影频道" tvg-id="Hits",电影频道|Hits
+Smart//:id=Hits
+#EXTINF:-1 group-title="电影频道" tvg-id="WarnerTV",电影频道|Warner TV
+Smart//:id=WarnerTV
+#EXTINF:-1 group-title="电影频道" tvg-id="weishimovie_twn",电影频道|卫视电影台
+Smart//:id=weishimovie_twn
+#EXTINF:-1 group-title="电影频道" tvg-id="Hbo",电影频道|HBO HD
+Smart//:id=Hbo
+#EXTINF:-1 group-title="电影频道" tvg-id="meiyamovie_twn",电影频道|美亚电影
+Smart//:id=meiyamovie_twn
+#EXTINF:-1 group-title="电影频道" tvg-id="Hbosignature",电影频道|HBO Signature
+Smart//:id=Hbosignature
+#EXTINF:-1 group-title="电影频道" tvg-id="Hbohitshd",电影频道|HBO Hits
+Smart//:id=Hbohitshd
+#EXTINF:-1 group-title="电影频道" tvg-id="xingwei_movie",电影频道|星卫电影
+Smart//:id=xingwei_movie
+#EXTINF:-1 group-title="电影频道" tvg-id="Weishimovie",电影频道|SCM
+Smart//:id=Weishimovie
+#EXTINF:-1 group-title="电影频道" tvg-id="Dreamworks",电影频道|Dreamworks
+Smart//:id=Dreamworks
+#EXTINF:-1 group-title="电影频道" tvg-id="Thrill",电影频道|Thrill
+Smart//:id=Thrill
+#EXTINF:-1 group-title="电影频道" tvg-id="Hitsmovie",电影频道|Hits Movie
+Smart//:id=Hitsmovie
+#EXTINF:-1 group-title="电影频道" tvg-id="One",电影频道|One
+Smart//:id=One
+#EXTINF:-1 group-title="电影频道" tvg-id="Tvnmovie",电影频道|tvN Movie
+Smart//:id=Tvnmovie
+#EXTINF:-1 group-title="电影频道" tvg-id="Celestial2",电影频道|Celestial Classic
+Smart//:id=Celestial2
+#EXTINF:-1 group-title="电影频道" tvg-id="Celestialindo",电影频道|Celestial Movies HD
+Smart//:id=Celestialindo
+#EXTINF:-1 group-title="电影频道" tvg-id="Axn",电影频道|Axn HD
+Smart//:id=Axn
+#EXTINF:-1 group-title="电影频道" tvg-id="Paramountnetwork",电影频道|Paramount Network
+Smart//:id=Paramountnetwork
+#EXTINF:-1 group-title="电影频道" tvg-id="Kplus",电影频道|Astrol Kplus
+Smart//:id=Kplus
+#EXTINF:-1 group-title="电影频道" tvg-id="Rockaction",电影频道|Rock Actions
+Smart//:id=Rockaction
+#EXTINF:-1 group-title="电影频道" tvg-id="Rockentertain",电影频道|Rock Entertainment
+Smart//:id=Rockentertain
+#EXTINF:-1 group-title="纪录频道" tvg-id="natgeohd_twn",纪录频道|Natgeo_HD
+Smart//:id=natgeohd_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="natgeowild_twn",纪录频道|NatGeo_Wild HD
+Smart//:id=natgeowild_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="animalplanet_twn",纪录频道|Animal_Planet
+Smart//:id=animalplanet_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="discoverytwn_twn",纪录频道|Discovery Asia
+Smart//:id=discoverytwn_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="ci_twn",纪录频道|CI
+Smart//:id=ci_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="asiatravel_twn",纪录频道|Asia Travel
+Smart//:id=asiatravel_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="discoveryhd_twn",纪录频道|Discovery HD
+Smart//:id=discoveryhd_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="afc_twn",纪录频道|亚洲美食
+Smart//:id=afc_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="foodplanet_twn",纪录频道|美食星球
+Smart//:id=foodplanet_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="tlc_twn",纪录频道|亚洲旅游 TLC Asia
+Smart//:id=tlc_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="Natgeo",纪录频道|NatGeo HD
+Smart//:id=Natgeo
+#EXTINF:-1 group-title="纪录频道" tvg-id="fashiontv_twn",纪录频道|Fashion TV
+Smart//:id=fashiontv_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="History",纪录频道|History
+Smart//:id=History
+#EXTINF:-1 group-title="纪录频道" tvg-id="bbcearth_twn",纪录频道|BBC Earth HD
+Smart//:id=bbcearth_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="bbclifestyle_twn",纪录频道|BBC Earth Lifestyle
+Smart//:id=bbclifestyle_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="mtvhd_twn",纪录频道|MTV Live
+Smart//:id=mtvhd_twn
+#EXTINF:-1 group-title="纪录频道" tvg-id="Natgeowild",纪录频道|NatGeo Wild HD
+Smart//:id=Natgeowild
+#EXTINF:-1 group-title="纪录频道" tvg-id="AnimalPlanet",纪录频道|Animal Planet (Eng)
+Smart//:id=AnimalPlanet
+#EXTINF:-1 group-title="纪录频道" tvg-id="Tlc",纪录频道|TLC
+Smart//:id=Tlc
+#EXTINF:-1 group-title="纪录频道" tvg-id="Foodnetwork",纪录频道|Foodnetwork Hd
+Smart//:id=Foodnetwork
+#EXTINF:-1 group-title="纪录频道" tvg-id="HGTV",纪录频道|HGTV
+Smart//:id=HGTV
+#EXTINF:-1 group-title="纪录频道" tvg-id="asiatravel_twn",纪录频道|AFC 亚洲旅游台
+Smart//:id=asiatravel_twn
+#EXTINF:-1 group-title="新闻频道" tvg-id="skynews_twn",新闻频道|Skynews
+Smart//:id=skynews_twn
+#EXTINF:-1 group-title="新闻频道" tvg-id="abcnews_glo",新闻频道|ABC News
+Smart//:id=abcnews_glo
+#EXTINF:-1 group-title="新闻频道" tvg-id="ettvcaijing_twn",新闻频道|东森财经新闻 ETTV Business
+Smart//:id=ettvcaijing_twn
+#EXTINF:-1 group-title="新闻频道" tvg-id="cbshd_glo",新闻频道|CBS HD
+Smart//:id=cbshd_glo
+#EXTINF:-1 group-title="新闻频道" tvg-id="cbsn_glo",新闻频道|CBSN HD
+Smart//:id=cbsn_glo
+#EXTINF:-1 group-title="新闻频道" tvg-id="france24_twn",新闻频道|France 24
+Smart//:id=france24_twn
+#EXTINF:-1 group-title="新闻频道" tvg-id="dw_twn",新闻频道|DW (Deutsch)
+Smart//:id=dw_twn
+#EXTINF:-1 group-title="新闻频道" tvg-id="nhkworld_japan",新闻频道|NHK World
+Smart//:id=nhkworld_japan
+#EXTINF:-1 group-title="新闻频道" tvg-id="foxnews_twn",新闻频道|Fox News
+Smart//:id=foxnews_twn
+#EXTINF:-1 group-title="新闻频道" tvg-id="CGTN",新闻频道|CGTN
+Smart//:id=CGTN
+#EXTINF:-1 group-title="新闻频道" tvg-id="Cnn",新闻频道|CNN International
+Smart//:id=Cnn
+#EXTINF:-1 group-title="新闻频道" tvg-id="cnn_twn",新闻频道|CNN backup
+Smart//:id=cnn_twn
+#EXTINF:-1 group-title="新闻频道" tvg-id="cnbc_twn",新闻频道|CNBC
+Smart//:id=cnbc_twn
+#EXTINF:-1 group-title="新闻频道" tvg-id="cna",新闻频道|CNA
+Smart//:id=cna
+#EXTINF:-1 group-title="新闻频道" tvg-id="bbcnews_twn",新闻频道|BBC World News
+Smart//:id=bbcnews_twn
+#EXTINF:-1 group-title="新闻频道" tvg-id="Bbcnews",新闻频道|BBC World News
+Smart//:id=Bbcnews
+#EXTINF:-1 group-title="新闻频道" tvg-id="bloomberg_twn",新闻频道|Bloomberg News
+Smart//:id=bloomberg_twn
+#EXTINF:-1 group-title="新闻频道" tvg-id="aljazeera_twn",新闻频道|Al-Jazeera
+Smart//:id=aljazeera_twn
+#EXTINF:-1 group-title="儿童频道" tvg-id="Babytv",儿童频道|Baby TV Eng
+Smart//:id=Babytv
+#EXTINF:-1 group-title="儿童频道" tvg-id="Cbeebies",儿童频道|CBeebies
+Smart//:id=Cbeebies
+#EXTINF:-1 group-title="儿童频道" tvg-id="KidsTV",儿童频道|Kids TV
+Smart//:id=KidsTV
+#EXTINF:-1 group-title="儿童频道" tvg-id="momo1_twn",儿童频道|Momo TV
+Smart//:id=momo1_twn
+#EXTINF:-1 group-title="儿童频道" tvg-id="Animax",儿童频道|Animax
+Smart//:id=Animax
+#EXTINF:-1 group-title="儿童频道" tvg-id="babytv_twn",儿童频道|Baby TV
+Smart//:id=babytv_twn
+#EXTINF:-1 group-title="儿童频道" tvg-id="MiaoMi",儿童频道|MiaoMi
+Smart//:id=MiaoMi
+#EXTINF:-1 group-title="儿童频道" tvg-id="jingtiancartoon_twn",儿童频道|靖天卡通台
+Smart//:id=jingtiancartoon_twn
+#EXTINF:-1 group-title="儿童频道" tvg-id="yoyo_twn",儿童频道|东森幼幼 Yoyo TV
+Smart//:id=yoyo_twn
+#EXTINF:-1 group-title="儿童频道" tvg-id="Cn",儿童频道|Cartoon Network
+Smart//:id=Cn
+#EXTINF:-1 group-title="儿童频道" tvg-id="Nickelodeon",儿童频道|Nickelodeon
+Smart//:id=Nickelodeon
+#EXTINF:-1 group-title="儿童频道" tvg-id="Nickjr",儿童频道|Nick Jr
+Smart//:id=Nickjr
+#EXTM3U
+#EXTINF:-1 group-title="新加坡" tvg-id="Channel5HD",新加坡|Channel 5
+Smart//:id=Channel5HD
+#EXTINF:-1 group-title="新加坡" tvg-id="Channel8HD",新加坡|Channel 8
+Smart//:id=Channel8HD
+#EXTINF:-1 group-title="新加坡" tvg-id="Suria",新加坡|Suria
+Smart//:id=Suria
+#EXTINF:-1 group-title="新加坡" tvg-id="ChannelU",新加坡|Channel U
+Smart//:id=ChannelU
+#EXTINF:-1 group-title="新加坡" tvg-id="Vasantham",新加坡|Vasantham
+Smart//:id=Vasantham
+#EXTINF:-1 group-title="新加坡" tvg-id="cna",新加坡|CNA
+Smart//:id=cna
+#EXTINF:-1 group-title="新加坡" tvg-id="cna_twn",新加坡|CNA backup
+Smart//:id=cna_twn
+#EXTINF:-1 group-title="新加坡" tvg-id="Mewatch_ch5",新加坡|MeWatch Ch 5
+Smart//:id=Mewatch_ch5
+#EXTINF:-1 group-title="新加坡" tvg-id="Mewatch_ch8",新加坡|MeWatch Ch 8
+Smart//:id=Mewatch_ch8
+#EXTINF:-1 group-title="新加坡" tvg-id="Mewatch_chU",新加坡|MeWatch Ch U
+Smart//:id=Mewatch_chU
+#EXTINF:-1 group-title="新加坡" tvg-id="Mewatch_Suria",新加坡|MeWatch Suria
+Smart//:id=Mewatch_Suria
+#EXTINF:-1 group-title="新加坡" tvg-id="Mewatch_Vasantham",新加坡|MeWatch Vasantham
+Smart//:id=Mewatch_Vasantham
+#EXTINF:-1 group-title="新加坡" tvg-id="Mewatch_cna",新加坡|MeWatch CNA
+Smart//:id=Mewatch_cna
 #EXTINF:-1 group-title="马来西亚" tvg-id="TV1",马来西亚|TV1
 Smart//:id=TV1
-#EXTINF:-1 group-title="马来西亚" tvg-id="TV1_backup",马来西亚|TV1(备用)
+#EXTINF:-1 group-title="马来西亚" tvg-id="TV1_backup",马来西亚|TV1 backup
 Smart//:id=TV1_backup
 #EXTINF:-1 group-title="马来西亚" tvg-id="TV2",马来西亚|TV2
 Smart//:id=TV2
 #EXTINF:-1 group-title="马来西亚" tvg-id="TV3",马来西亚|TV3
 Smart//:id=TV3
-#EXTINF:-1 group-title="马来西亚" tvg-id="tv3_twn",马来西亚|TV3(备用)
-Smart//:id=tv3_twn
+#EXTINF:-1 group-title="马来西亚" tvg-id="TV3_mega",马来西亚|TV3 SD
+Smart//:id=TV3_mega
 #EXTINF:-1 group-title="马来西亚" tvg-id="NTV7",马来西亚|NTV7
 Smart//:id=NTV7
 #EXTINF:-1 group-title="马来西亚" tvg-id="TV8",马来西亚|TV8
 Smart//:id=TV8
 #EXTINF:-1 group-title="马来西亚" tvg-id="TV9",马来西亚|TV9
 Smart//:id=TV9
-#EXTINF:-1 group-title="马来西亚" tvg-id="Warna-O",马来西亚|Warna
-Smart//:id=Warna-O
-#EXTINF:-1 group-title="马来西亚" tvg-id="Warna",马来西亚|Warna(备用)
-Smart//:id=Warna
 #EXTINF:-1 group-title="马来西亚" tvg-id="Ria-0",马来西亚|Ria
 Smart//:id=Ria-0
-#EXTINF:-1 group-title="马来西亚" tvg-id="Ria49",马来西亚|Ria(备用)
-Smart//:id=Ria49
-#EXTINF:-1 group-title="马来西亚" tvg-id="Ria_quanjia",马来西亚|Ria-3
-Smart//:id=Ria_quanjia
+#EXTINF:-1 group-title="马来西亚" tvg-id="Ria_backup",马来西亚|Ria-3
+Smart//:id=Ria_backup
 #EXTINF:-1 group-title="马来西亚" tvg-id="Alhijrah",马来西亚|Al-Hijrah
 Smart//:id=Alhijrah
-#EXTINF:-1 group-title="马来西亚" tvg-id="Alhijrah_backup",马来西亚|Al-Hijrah(备用)
+#EXTINF:-1 group-title="马来西亚" tvg-id="Alhijrah_backup",马来西亚|Al-Hijrah backup
 Smart//:id=Alhijrah_backup
 #EXTINF:-1 group-title="马来西亚" tvg-id="Awani",马来西亚|Awani
 Smart//:id=Awani
@@ -225,8 +608,10 @@ Smart//:id=Awani
 Smart//:id=Bernama
 #EXTINF:-1 group-title="马来西亚" tvg-id="Prima-0",马来西亚|Prima
 Smart//:id=Prima-0
-#EXTINF:-1 group-title="马来西亚" tvg-id="Prima49",马来西亚|Prima(备用)
-Smart//:id=Prima49
+#EXTINF:-1 group-title="马来西亚" tvg-id="AAprima1",马来西亚|Prima backup
+Smart//:id=AAprima1
+#EXTINF:-1 group-title="马来西亚" tvg-id="AAprima",马来西亚|Prima backup 2
+Smart//:id=AAprima
 #EXTINF:-1 group-title="马来西亚" tvg-id="Ceria",马来西亚|Ceria
 Smart//:id=Ceria
 #EXTINF:-1 group-title="马来西亚" tvg-id="AstroMTV",马来西亚|Astro MTV
@@ -241,8 +626,8 @@ Smart//:id=Oasis
 Smart//:id=Hbo
 #EXTINF:-1 group-title="马来西亚" tvg-id="Hbosignature",马来西亚|HBO Signature
 Smart//:id=Hbosignature
-#EXTINF:-1 group-title="马来西亚" tvg-id="Hbohits",马来西亚|HBO Hits
-Smart//:id=Hbohits
+#EXTINF:-1 group-title="马来西亚" tvg-id="Hbohitshd",马来西亚|HBO Hits
+Smart//:id=Hbohitshd
 #EXTINF:-1 group-title="马来西亚" tvg-id="Natgeowild",马来西亚|NatGeo Wild HD
 Smart//:id=Natgeowild
 #EXTINF:-1 group-title="马来西亚" tvg-id="Cn",马来西亚|Cartoon Network
@@ -251,92 +636,88 @@ Smart//:id=Cn
 Smart//:id=Nickelodeon
 #EXTINF:-1 group-title="马来西亚" tvg-id="Nickjr",马来西亚|Nick Jr
 Smart//:id=Nickjr
-#EXTINF:-1 group-title="马来西亚" tvg-id="Citra",马来西亚|Citra
-Smart//:id=Citra
+#EXTINF:-1 group-title="马来西亚" tvg-id="Dreamworks",马来西亚|Dreamworks
+Smart//:id=Dreamworks
+#EXTINF:-1 group-title="马来西亚" tvg-id="Siar",马来西亚|Siar
+Smart//:id=Siar
+#EXTINF:-1 group-title="马来西亚" tvg-id="AAcitra",马来西亚|Citra
+Smart//:id=AAcitra
+#EXTINF:-1 group-title="马来西亚" tvg-id="AAcitra1",马来西亚|Citra backup
+Smart//:id=AAcitra1
 #EXTINF:-1 group-title="马来西亚" tvg-id="Sensasi",马来西亚|Sensasi
 Smart//:id=Sensasi
 #EXTINF:-1 group-title="马来西亚" tvg-id="Aura",马来西亚|Aura
 Smart//:id=Aura
 #EXTINF:-1 group-title="马来西亚" tvg-id="Rania",马来西亚|Rania
 Smart//:id=Rania
-#EXTINF:-1 group-title="马来西亚" tvg-id="Boo",马来西亚|Boo
-Smart//:id=Boo
-#EXTINF:-1 group-title="马来西亚" tvg-id="Awesome_mega",马来西亚|Awesome TV
-Smart//:id=Awesome_mega
-#EXTINF:-1 group-title="马来西亚" tvg-id="SetOne",马来西亚|Sony HD
-Smart//:id=SetOne
 #EXTINF:-1 group-title="马来西亚" tvg-id="KBS",马来西亚|KBS World
 Smart//:id=KBS
+#EXTINF:-1 group-title="马来西亚" tvg-id="Boo",马来西亚|Boo
+Smart//:id=Boo
+#EXTINF:-1 group-title="马来西亚" tvg-id="Dsangat",马来西亚|Awesome TV
+Smart//:id=Dsangat
+#EXTINF:-1 group-title="马来西亚" tvg-id="Asonypix",马来西亚|Astro Sonypix
+Smart//:id=Asonypix
+#EXTINF:-1 group-title="马来西亚" tvg-id="SetOne",马来西亚|Sony HD
+Smart//:id=SetOne
 #EXTINF:-1 group-title="马来西亚" tvg-id="TVN",马来西亚|TvN
 Smart//:id=TVN
-#EXTINF:-1 group-title="马来西亚" tvg-id="Astropremier",马来西亚|Astro Premier
-Smart//:id=Astropremier
 #EXTINF:-1 group-title="马来西亚" tvg-id="AEC",马来西亚|AEC
 Smart//:id=AEC
-#EXTINF:-1 group-title="马来西亚" tvg-id="Wlt",马来西亚|华丽台 HD
+#EXTINF:-1 group-title="马来西亚" tvg-id="Wlt",马来西亚|华丽台 HD （Wah Lai Toi）
 Smart//:id=Wlt
-#EXTINF:-1 group-title="马来西亚" tvg-id="Huahee",马来西亚|欢喜台 HD
+#EXTINF:-1 group-title="马来西亚" tvg-id="Huahee",马来西亚|欢喜台 HD （Hua Hee Tai）
 Smart//:id=Huahee
-#EXTINF:-1 group-title="马来西亚" tvg-id="Huahee_backup",马来西亚|欢喜台(备用)
-Smart//:id=Huahee_backup
 #EXTINF:-1 group-title="马来西亚" tvg-id="Quanjia",马来西亚|Astro QJ
 Smart//:id=Quanjia
 #EXTINF:-1 group-title="马来西亚" tvg-id="Tvbjade",马来西亚|TVB Jade
 Smart//:id=Tvbjade
-#EXTINF:-1 group-title="马来西亚" tvg-id="Tvbasia",马来西亚|TVBS Asia
+#EXTINF:-1 group-title="马来西亚" tvg-id="Tvbasia",马来西亚|TVB Asia
 Smart//:id=Tvbasia
-#EXTINF:-1 group-title="马来西亚" tvg-id="Tvbentertainment",马来西亚|TVB Entertainment
+#EXTINF:-1 group-title="马来西亚" tvg-id="Tvbenttainment",马来西亚|TVB Entertainment
 Smart//:id=Tvbentertainment
 #EXTINF:-1 group-title="马来西亚" tvg-id="Tvbclassic",马来西亚|TVB Classic
 Smart//:id=Tvbclassic
-#EXTINF:-1 group-title="马来西亚" tvg-id="AodHD",马来西亚|AOD
-Smart//:id=AodHD
-#EXTINF:-1 group-title="马来西亚" tvg-id="One_mega",马来西亚|One
-Smart//:id=One_mega
-#EXTINF:-1 group-title="马来西亚" tvg-id="Xinhe",马来西亚|TVB 星河台
+#EXTINF:-1 group-title="马来西亚" tvg-id="Aodhd",马来西亚|AOD
+Smart//:id=Aodhd
+#EXTINF:-1 group-title="马来西亚" tvg-id="One",马来西亚|One
+Smart//:id=One
+#EXTINF:-1 group-title="马来西亚" tvg-id="Xinhe",马来西亚|TVB 星河台 Xing He
 Smart//:id=Xinhe
-#EXTINF:-1 group-title="马来西亚" tvg-id="Qiyi",马来西亚|爱奇艺
+#EXTINF:-1 group-title="马来西亚" tvg-id="Qiyi",马来西亚|爱奇艺 iQiyi
 Smart//:id=Qiyi
 #EXTINF:-1 group-title="马来西亚" tvg-id="AnimalPlanet",马来西亚|Animal Planet (Eng)
 Smart//:id=AnimalPlanet
 #EXTINF:-1 group-title="马来西亚" tvg-id="Tvnmovie",马来西亚|tvN Movie
 Smart//:id=Tvnmovie
-#EXTINF:-1 group-title="马来西亚" tvg-id="cnn_twn",马来西亚|CNN(备用)
+#EXTINF:-1 group-title="马来西亚" tvg-id="cnn_twn",马来西亚|CNN backup
 Smart//:id=cnn_twn
 #EXTINF:-1 group-title="马来西亚" tvg-id="Celestial2",马来西亚|Celestial Classic
 Smart//:id=Celestial2
 #EXTINF:-1 group-title="马来西亚" tvg-id="cnbc_twn",马来西亚|CNBC
 Smart//:id=cnbc_twn
-#EXTINF:-1 group-title="马来西亚" tvg-id="Rtmsport",马来西亚|RTM Sports HD
-Smart//:id=Rtmsport
 #EXTINF:-1 group-title="马来西亚" tvg-id="Tlc",马来西亚|TLC
 Smart//:id=Tlc
 #EXTINF:-1 group-title="马来西亚" tvg-id="cna",马来西亚|CNA
 Smart//:id=cna
-#EXTINF:-1 group-title="马来西亚" tvg-id="asiatravel_twn",马来西亚|AFC 亚洲旅游台
-Smart//:id=asiatravel_twn
 #EXTINF:-1 group-title="马来西亚" tvg-id="bbcnews_twn",马来西亚|BBC World News
 Smart//:id=bbcnews_twn
-#EXTINF:-1 group-title="马来西亚" tvg-id="Foodnetwork_mega",马来西亚|Foodnetwork Hd
-Smart//:id=Foodnetwork_mega
+#EXTINF:-1 group-title="马来西亚" tvg-id="Foodnetwork",马来西亚|Foodnetwork Hd
+Smart//:id=Foodnetwork
 #EXTINF:-1 group-title="马来西亚" tvg-id="HGTV",马来西亚|HGTV
 Smart//:id=HGTV
-#EXTINF:-1 group-title="马来西亚" tvg-id="Arena",马来西亚|Arena
-Smart//:id=Arena
 #EXTINF:-1 group-title="马来西亚" tvg-id="Goshop",马来西亚|Goshop
 Smart//:id=Goshop
-#EXTINF:-1 group-title="马来西亚" tvg-id="Celestial_mega",马来西亚|Celestial Movies HD
-Smart//:id=Celestial_mega
-#EXTINF:-1 group-title="马来西亚" tvg-id="Arena2",马来西亚|Arena 2
-Smart//:id=Arena2
+#EXTINF:-1 group-title="马来西亚" tvg-id="Celestial",马来西亚|Celestial Movies HD
+Smart//:id=Celestial
 #EXTINF:-1 group-title="马来西亚" tvg-id="Axn",马来西亚|Axn HD
 Smart//:id=Axn
-#EXTINF:-1 group-title="马来西亚" tvg-id="Paramountnetwork",马来西亚|Paramount Network
+#EXTINF:-1 group-title="马来西亚" tvg-id="Parameterwork",马来西亚|Paramount Network
 Smart//:id=Paramountnetwork
-#EXTINF:-1 group-title="马来西亚" tvg-id="Bolaarena1",马来西亚|BolaArena 1
-Smart//:id=Bolaarena1
 #EXTINF:-1 group-title="马来西亚" tvg-id="Kplus",马来西亚|Astrol Kplus
 Smart//:id=Kplus
+#EXTINF:-1 group-title="马来西亚" tvg-id="asiatravel_twn",马来西亚|AFC 亚洲旅游台
+Smart//:id=asiatravel_twn
 #EXTINF:-1 group-title="马来西亚" tvg-id="Rockaction",马来西亚|Rock Actions
 Smart//:id=Rockaction
 #EXTINF:-1 group-title="马来西亚" tvg-id="bloomberg_twn",马来西亚|Bloomberg News
@@ -345,308 +726,112 @@ Smart//:id=bloomberg_twn
 Smart//:id=aljazeera_twn
 #EXTINF:-1 group-title="马来西亚" tvg-id="Rockentertain",马来西亚|Rock Entertainment
 Smart//:id=Rockentertain
-#EXTINF:-1 group-title="马来西亚" tvg-id="Showcase_mega",马来西亚|Showcase
-Smart//:id=Showcase_mega
+#EXTINF:-1 group-title="马来西亚" tvg-id="Rtmsport",马来西亚|RTM Sports HD
+Smart//:id=Rtmsport
+#EXTINF:-1 group-title="马来西亚" tvg-id="Arena",马来西亚|Arena
+Smart//:id=Arena
+#EXTINF:-1 group-title="马来西亚" tvg-id="Arena2",马来西亚|Arena 2
+Smart//:id=Arena2
+#EXTINF:-1 group-title="马来西亚" tvg-id="Bolaarena1",马来西亚|BolaArena 1
+Smart//:id=Bolaarena1
 #EXTINF:-1 group-title="马来西亚" tvg-id="Bolaarena2",马来西亚|BolaArena 2
 Smart//:id=Bolaarena2
-#EXTINF:-1 group-title="新加坡" tvg-id="Channel5HD",新加坡|Channel 5
-Smart//:id=Channel5HD
-#EXTINF:-1 group-title="新加坡" tvg-id="Ch5_mega",新加坡|Channel 5(备用)
-Smart//:id=Ch5_mega
-#EXTINF:-1 group-title="新加坡" tvg-id="Channel8HD",新加坡|Channel 8
-Smart//:id=Channel8HD
-#EXTINF:-1 group-title="新加坡" tvg-id="Ch8_mega",新加坡|Channel 8(备用)
-Smart//:id=Ch8_mega
-#EXTINF:-1 group-title="新加坡" tvg-id="Suria",新加坡|Suria
-Smart//:id=Suria
-#EXTINF:-1 group-title="新加坡" tvg-id="Suria_backup",新加坡|Suria(备用)
-Smart//:id=Suria_backup
-#EXTINF:-1 group-title="新加坡" tvg-id="ChannelU",新加坡|Channel U
-Smart//:id=ChannelU
-#EXTINF:-1 group-title="新加坡" tvg-id="ChU_mega",新加坡|Channel U(备用)
-Smart//:id=ChU_mega
-#EXTINF:-1 group-title="新加坡" tvg-id="Vasantham",新加坡|Vasantham
-Smart//:id=Vasantham
-#EXTINF:-1 group-title="新加坡" tvg-id="Vasantham_mega",新加坡|Vasantham(备用)
-Smart//:id=Vasantham_mega
-#EXTINF:-1 group-title="新加坡" tvg-id="cna",新加坡|CNA
-Smart//:id=cna
-#EXTINF:-1 group-title="新加坡" tvg-id="cna_twn",新加坡|CNA(备用)
-Smart//:id=cna_twn
-#EXTINF:-1 group-title="印尼" tvg-id="TVRI",印尼|TVRI National
+#EXTINF:-1 group-title="马来西亚" tvg-id="Astro_lol",马来西亚|Astro LOL
+Smart//:id=Astro_lol
+#EXTINF:-1 group-title="马来西亚" tvg-id="Rusi",马来西亚|Astro Rusi
+Smart//:id=Rusi
+#EXTINF:-1 group-title="马来西亚" tvg-id="Wion",马来西亚|WION
+Smart//:id=Wion
+#EXTINF:-1 group-title="马来西亚" tvg-id="Rtmasean",马来西亚|RTM Asean
+Smart//:id=Rtmasean
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="TVRI",印度尼西亚|TVRI National
 Smart//:id=TVRI
-#EXTINF:-1 group-title="印尼" tvg-id="Rcti",印尼|RCTI
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Rcti",印度尼西亚|RCTI
 Smart//:id=Rcti
-#EXTINF:-1 group-title="印尼" tvg-id="Kompass",印尼|Kompass TV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Kompass",印度尼西亚|Kompass TV
 Smart//:id=Kompass
-#EXTINF:-1 group-title="印尼" tvg-id="BeritaSatu_eko",印尼|Berita Satu
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="BeritaSatu_eko",印度尼西亚|Berita Satu
 Smart//:id=BeritaSatu_eko
-#EXTINF:-1 group-title="印尼" tvg-id="Indosiar",印尼|Indosiar HD
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Indosiar",印度尼西亚|Indosiar HD
 Smart//:id=Indosiar
-#EXTINF:-1 group-title="印尼" tvg-id="Antv",印尼|AnTV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Antv",印度尼西亚|AnTV
 Smart//:id=Antv
-#EXTINF:-1 group-title="印尼" tvg-id="Mnctv",印尼|MNC TV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Mnctv",印度尼西亚|MNC TV
 Smart//:id=Mnctv
-#EXTINF:-1 group-title="印尼" tvg-id="Trans7_eko",印尼|Trans 7
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Trans7_eko",印度尼西亚|Trans 7
 Smart//:id=Trans7_eko
-#EXTINF:-1 group-title="印尼" tvg-id="Transtv",印尼|Transtv
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Transtv",印度尼西亚|Transtv
 Smart//:id=Transtv
-#EXTINF:-1 group-title="印尼" tvg-id="JTV_eko",印尼|JTV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="JTV_eko",印度尼西亚|JTV
 Smart//:id=JTV_eko
-#EXTINF:-1 group-title="印尼" tvg-id="metrotv_eko",印尼|Metro TV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="metrotv_eko",印度尼西亚|Metro TV
 Smart//:id=metrotv_eko
-#EXTINF:-1 group-title="印尼" tvg-id="Cinemax",印尼|Cinemax
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Cinemax",印度尼西亚|Cinemax
 Smart//:id=Cinemax
-#EXTINF:-1 group-title="印尼" tvg-id="SCTV",印尼|SCTV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="SCTV",印度尼西亚|SCTV
 Smart//:id=SCTV
-#EXTINF:-1 group-title="印尼" tvg-id="Tvone",印尼|Tvone
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Tvone",印度尼西亚|Tvone
 Smart//:id=Tvone
-#EXTINF:-1 group-title="印尼" tvg-id="TVMU_eko",印尼|TVMU
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="TVMU_eko",印度尼西亚|TVMU
 Smart//:id=TVMU_eko
-#EXTINF:-1 group-title="印尼" tvg-id="Gtv",印尼|GTV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Gtv",印度尼西亚|GTV
 Smart//:id=Gtv
-#EXTINF:-1 group-title="印尼" tvg-id="Rtv",印尼|RTV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Rtv",印度尼西亚|RTV
 Smart//:id=Rtv
-#EXTINF:-1 group-title="印尼" tvg-id="JakTV",印尼|Jak TV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="JakTV",印度尼西亚|Jak TV
 Smart//:id=JakTV
-#EXTINF:-1 group-title="印尼" tvg-id="Inewstv",印尼|iNews TV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Inewstv",印度尼西亚|iNews TV
 Smart//:id=Inewstv
-#EXTINF:-1 group-title="印尼" tvg-id="DaaiTV",印尼|Daai TV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="DaaiTV",印度尼西亚|Daai TV
 Smart//:id=DaaiTV
-#EXTINF:-1 group-title="印尼" tvg-id="NetTV",印尼|Net TV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="NetTV",印度尼西亚|Net TV
 Smart//:id=NetTV
-#EXTINF:-1 group-title="印尼" tvg-id="Animax",印尼|Animax
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Animax",印度尼西亚|Animax
 Smart//:id=Animax
-#EXTINF:-1 group-title="印尼" tvg-id="Ewtn",印尼|EWTN
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Ewtn",印度尼西亚|EWTN
 Smart//:id=Ewtn
-#EXTINF:-1 group-title="印尼" tvg-id="AlQuran",印尼|AlQuran AlKareem
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="AlQuran",印度尼西亚|AlQuran AlKareem
 Smart//:id=AlQuran
-#EXTINF:-1 group-title="印尼" tvg-id="TawafTV",印尼|Tawaf TV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="TawafTV",印度尼西亚|Tawaf TV
 Smart//:id=TawafTV
-#EXTINF:-1 group-title="印尼" tvg-id="VisionPrime",印尼|Vision Prime
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="VisionPrime",印度尼西亚|Vision Prime
 Smart//:id=VisionPrime
-#EXTINF:-1 group-title="印尼" tvg-id="MuslimTV",印尼|Muslim TV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="MuslimTV",印度尼西亚|Muslim TV
 Smart//:id=MuslimTV
-#EXTINF:-1 group-title="印尼" tvg-id="MusicTV",印尼|Music TV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="MusicTV",印度尼西亚|Music TV
 Smart//:id=MusicTV
-#EXTINF:-1 group-title="印尼" tvg-id="Lifestyle",印尼|Lifestyle&Fashion
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Lifestyle",印度尼西亚|Lifestyle&Fashion
 Smart//:id=Lifestyle
-#EXTINF:-1 group-title="印尼" tvg-id="Entertain",印尼|Entertain
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Entertain",印度尼西亚|Entertain
 Smart//:id=Entertain
-#EXTINF:-1 group-title="印尼" tvg-id="Hits",印尼|Hits
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Hits",印度尼西亚|Hits
 Smart//:id=Hits
-#EXTINF:-1 group-title="印尼" tvg-id="WarnerTV",印尼|Warner TV
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="WarnerTV",印度尼西亚|Warner TV
 Smart//:id=WarnerTV
-#EXTINF:-1 group-title="印尼" tvg-id="Weishimovie",印尼|SCM
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Weishimovie",印度尼西亚|SCM
 Smart//:id=Weishimovie
-#EXTINF:-1 group-title="印尼" tvg-id="Thrill",印尼|Thrill
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Thrill",印度尼西亚|Thrill
 Smart//:id=Thrill
-#EXTINF:-1 group-title="印尼" tvg-id="Fs",印尼|Fight Sports
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Fs",印度尼西亚|Fight Sports
 Smart//:id=Fs
-#EXTINF:-1 group-title="印尼" tvg-id="Bein2hd",印尼|Beinsports 2 HD
-Smart//:id=Bein2hd
-#EXTINF:-1 group-title="印尼" tvg-id="Hitsmovie",印尼|Hits Movie
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Hitsmovie",印度尼西亚|Hits Movie
 Smart//:id=Hitsmovie
-#EXTINF:-1 group-title="印尼" tvg-id="One_mega",印尼|One
-Smart//:id=One_mega
-#EXTINF:-1 group-title="印尼" tvg-id="Tvnmovie",印尼|tvN Movie
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="One",印度尼西亚|One
+Smart//:id=One
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Tvnmovie",印度尼西亚|tvN Movie
 Smart//:id=Tvnmovie
-#EXTINF:-1 group-title="印尼" tvg-id="Celestialindo",印尼|Celestial Movies HD
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Celestialindo",印度尼西亚|Celestial Movies HD
 Smart//:id=Celestialindo
-#EXTINF:-1 group-title="印尼" tvg-id="Rockaction",印尼|Rock Actions
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Rockaction",印度尼西亚|Rock Actions
 Smart//:id=Rockaction
-#EXTINF:-1 group-title="印尼" tvg-id="Rockentertain",印尼|Rock Entertainment
+#EXTINF:-1 group-title="印度尼西亚" tvg-id="Rockentertain",印度尼西亚|Rock Entertainment
 Smart//:id=Rockentertain
-#EXTINF:-1 group-title="中国" tvg-id="cctv1",中国|CCTV-1
-Smart//:id=cctv1
-#EXTINF:-1 group-title="中国" tvg-id="cctv2",中国|CCTV-2
-Smart//:id=cctv2
-#EXTINF:-1 group-title="中国" tvg-id="cctv3",中国|CCTV-3
-Smart//:id=cctv3
-#EXTINF:-1 group-title="中国" tvg-id="cctv4",中国|CCTV-4
-Smart//:id=cctv4
-#EXTINF:-1 group-title="中国" tvg-id="Cctv4",中国|CCTV-4
-Smart//:id=Cctv4
-#EXTINF:-1 group-title="中国" tvg-id="cctv5",中国|CCTV-5
-Smart//:id=cctv5
-#EXTINF:-1 group-title="中国" tvg-id="cctv5plus",中国|CCTV-5+
-Smart//:id=cctv5plus
-#EXTINF:-1 group-title="中国" tvg-id="cctv6",中国|CCTV-6
-Smart//:id=cctv6
-#EXTINF:-1 group-title="中国" tvg-id="cctv7",中国|CCTV-7
-Smart//:id=cctv7
-#EXTINF:-1 group-title="中国" tvg-id="cctv8hd",中国|CCTV-8
-Smart//:id=cctv8hd
-#EXTINF:-1 group-title="中国" tvg-id="cctv9hd",中国|CCTV-9
-Smart//:id=cctv9hd
-#EXTINF:-1 group-title="中国" tvg-id="cctv10hd",中国|CCTV-10
-Smart//:id=cctv10hd
-#EXTINF:-1 group-title="中国" tvg-id="cctv11",中国|CCTV-11
-Smart//:id=cctv11
-#EXTINF:-1 group-title="中国" tvg-id="cctv12",中国|CCTV-12
-Smart//:id=cctv12
-#EXTINF:-1 group-title="中国" tvg-id="cctv13",中国|CCTV-13
-Smart//:id=cctv13
-#EXTINF:-1 group-title="中国" tvg-id="cctv14",中国|CCTV-14
-Smart//:id=cctv14
-#EXTINF:-1 group-title="中国" tvg-id="cctv15",中国|CCTV-15
-Smart//:id=cctv15
-#EXTINF:-1 group-title="中国" tvg-id="cctv16",中国|CCTV-16
-Smart//:id=cctv16
-#EXTINF:-1 group-title="中国" tvg-id="cctv17",中国|CCTV-17
-Smart//:id=cctv17
-#EXTINF:-1 group-title="中国" tvg-id="hunan_twn",中国|湖南卫视
-Smart//:id=hunan_twn
-#EXTINF:-1 group-title="中国" tvg-id="jiangsu_twn",中国|江苏卫视
-Smart//:id=jiangsu_twn
-#EXTINF:-1 group-title="中国" tvg-id="shenzhen",中国|深圳卫视
-Smart//:id=shenzhen
-#EXTINF:-1 group-title="中国" tvg-id="nanfang_twn",中国|大湾区卫视
-Smart//:id=nanfang_twn
-#EXTINF:-1 group-title="中国" tvg-id="guangdongweishi_twn",中国|广东卫视
-Smart//:id=guangdongweishi_twn
-#EXTINF:-1 group-title="中国" tvg-id="beijing",中国|北京卫视
-Smart//:id=beijing
-#EXTINF:-1 group-title="中国" tvg-id="zhujiang",中国|广东珠江
-Smart//:id=zhujiang
-#EXTINF:-1 group-title="中国" tvg-id="guangxi",中国|广西卫视
-Smart//:id=guangxi
-#EXTINF:-1 group-title="中国" tvg-id="hubei",中国|湖北卫视
-Smart//:id=hubei
-#EXTINF:-1 group-title="中国" tvg-id="sichuan_twn",中国|四川卫视
-Smart//:id=sichuan_twn
-#EXTINF:-1 group-title="中国" tvg-id="phoenixtv_hd",中国|凤凰卫视
-Smart//:id=phoenixtv_hd
-#EXTINF:-1 group-title="中国" tvg-id="dongfangweishi_twn",中国|东方卫视
-Smart//:id=dongfangweishi_twn
-#EXTINF:-1 group-title="中国" tvg-id="CGTN",中国|CGTN
-Smart//:id=CGTN
-#EXTINF:-1 group-title="中国" tvg-id="phoenixinfo_hd",中国|凤凰资讯
-Smart//:id=phoenixinfo_hd
-#EXTINF:-1 group-title="体育" tvg-id="Assp1",体育|Supersports 1
-Smart//:id=Assp1
-#EXTINF:-1 group-title="体育" tvg-id="go_assp1",体育|Supersports 1(备用)
-Smart//:id=go_assp1
-#EXTINF:-1 group-title="体育" tvg-id="Assp1_mega",体育|Supersportq 1(备用2)
-Smart//:id=Assp1_mega
-#EXTINF:-1 group-title="体育" tvg-id="Assp2",体育|Supersports 2
-Smart//:id=Assp2
-#EXTINF:-1 group-title="体育" tvg-id="go_assp2",体育|Supersports 2(备用)
-Smart//:id=go_assp2
-#EXTINF:-1 group-title="体育" tvg-id="Assp3",体育|Supersports 3
-Smart//:id=Assp3
-#EXTINF:-1 group-title="体育" tvg-id="go_assp3",体育|Supersports 3(备用)
-Smart//:id=go_assp3
-#EXTINF:-1 group-title="体育" tvg-id="Assp3_mega",体育|Supersports 3(备用2)
-Smart//:id=Assp3_mega
-#EXTINF:-1 group-title="体育" tvg-id="Assp4_mega",体育|Supersports 4
-Smart//:id=Assp4_mega
-#EXTINF:-1 group-title="体育" tvg-id="go_assp4",体育|Supersports 4(备用)
-Smart//:id=go_assp4
-#EXTINF:-1 group-title="体育" tvg-id="go_assp5",体育|Supersports 5
-Smart//:id=go_assp5
-#EXTINF:-1 group-title="体育" tvg-id="Beinhd",体育|Bein 2HD
-Smart//:id=Beinhd
-#EXTINF:-1 group-title="体育" tvg-id="Besports",体育|Beinsports HD
-Smart//:id=Besports
-#EXTINF:-1 group-title="体育" tvg-id="Champion5epl",体育|Champion 5 EPL
-Smart//:id=Champion5epl
-#EXTINF:-1 group-title="体育" tvg-id="Wwe",体育|WWE
-Smart//:id=Wwe
-#EXTINF:-1 group-title="体育" tvg-id="Champion6epl",体育|Champion 6 EPL
-Smart//:id=Champion6epl
-#EXTINF:-1 group-title="体育" tvg-id="Fs",体育|Fight Sports
-Smart//:id=Fs
-#EXTINF:-1 group-title="体育" tvg-id="ufc_mega",体育|UFC Network
-Smart//:id=ufc_mega
-#EXTINF:-1 group-title="体育" tvg-id="nbatv_twn",体育|NBA TV
-Smart//:id=nbatv_twn
-#EXTINF:-1 group-title="体育" tvg-id="Acricket_mega",体育|Astro Cricket
-Smart//:id=Acricket_mega
-#EXTINF:-1 group-title="体育" tvg-id="Agolf",体育|Astro Golf
-Smart//:id=Agolf
-#EXTINF:-1 group-title="体育" tvg-id="beeone",体育|TNT Sports 1
-Smart//:id=beeone
-#EXTINF:-1 group-title="体育" tvg-id="beetwo",体育|TNT Sports 2
-Smart//:id=beetwo
-#EXTINF:-1 group-title="体育" tvg-id="beethree",体育|TNT Sports 3
-Smart//:id=beethree
-#EXTINF:-1 group-title="体育" tvg-id="beefour",体育|TNT Sports 4
-Smart//:id=beefour
-#EXTINF:-1 group-title="体育" tvg-id="ten1_raj",体育|Sony Ten 1
-Smart//:id=ten1_raj
-#EXTINF:-1 group-title="体育" tvg-id="ten2_raj",体育|Sony Ten 2
-Smart//:id=ten2_raj
-#EXTINF:-1 group-title="体育" tvg-id="ten3_raj",体育|Sony Ten 3
-Smart//:id=ten3_raj
-#EXTINF:-1 group-title="体育" tvg-id="go_spotv",体育|SPOTV 1 HD
-Smart//:id=go_spotv
-#EXTINF:-1 group-title="体育" tvg-id="go_spotv2",体育|SPO TV 2
-Smart//:id=go_spotv2
-#EXTINF:-1 group-title="体育" tvg-id="Bein2hd",体育|Beinsports 2 HD
-Smart//:id=Bein2hd
-#EXTINF:-1 group-title="体育" tvg-id="tiankongarena",体育|Skysports Arena
-Smart//:id=tiankongarena
-#EXTINF:-1 group-title="体育" tvg-id="tiankongf1",体育|Skysports F1
-Smart//:id=tiankongf1
-#EXTINF:-1 group-title="体育" tvg-id="tiankongcricket",体育|Skysports Cricket
-Smart//:id=tiankongcricket
-#EXTINF:-1 group-title="体育" tvg-id="tiankongepl",体育|Skysports EPL
-Smart//:id=tiankongepl
-#EXTINF:-1 group-title="体育" tvg-id="tiankongfootball",体育|Skysports Football
-Smart//:id=tiankongfootball
-#EXTINF:-1 group-title="体育" tvg-id="tiankonggolf",体育|Skysports Golf
-Smart//:id=tiankonggolf
-#EXTINF:-1 group-title="体育" tvg-id="tiankongmain",体育|Skysports Main Event
-Smart//:id=tiankongmain
-#EXTINF:-1 group-title="体育" tvg-id="tiankongnews",体育|Skysports News
-Smart//:id=tiankongnews
-#EXTINF:-1 group-title="体育" tvg-id="tiankongnfl",体育|Skysports NFL
-Smart//:id=tiankongnfl
-#EXTINF:-1 group-title="体育" tvg-id="tiankongracing",体育|Skysports Racing
-Smart//:id=tiankongracing
-#EXTINF:-1 group-title="体育" tvg-id="tiankongmix",体育|Skysports Mix
-Smart//:id=tiankongmix
-#EXTINF:-1 group-title="体育" tvg-id="cctv5",体育|CCTV-5
-Smart//:id=cctv5
-#EXTINF:-1 group-title="体育" tvg-id="cctv5plus",体育|CCTV-5+
-Smart//:id=cctv5plus
-#EXTINF:-1 group-title="体育" tvg-id="eltasport2_twn",体育|爱尔达体育2台
-Smart//:id=eltasport2_twn
-#EXTINF:-1 group-title="体育" tvg-id="eltasport3_twn",体育|爱尔达体育3台
-Smart//:id=eltasport3_twn
-#EXTINF:-1 group-title="体育" tvg-id="Rtmsport",体育|RTM Sports HD
-Smart//:id=Rtmsport
-#EXTINF:-1 group-title="体育" tvg-id="Arena",体育|Arena
-Smart//:id=Arena
-#EXTINF:-1 group-title="体育" tvg-id="Arena2",体育|Arena 2
-Smart//:id=Arena2
-#EXTINF:-1 group-title="体育" tvg-id="Bolaarena1",体育|BolaArena 1
-Smart//:id=Bolaarena1
-#EXTINF:-1 group-title="体育" tvg-id="bein1_mega",体育|Bein 1 Sports
-Smart//:id=bein1_mega
-#EXTINF:-1 group-title="体育" tvg-id="bein2_mega",体育|Bein 2 Sports
-Smart//:id=bein2_mega
-#EXTINF:-1 group-title="体育" tvg-id="bein3_mega",体育|Bein 3 Sports
-Smart//:id=bein3_mega
-#EXTINF:-1 group-title="体育" tvg-id="bein4_mega",体育|Bein 4 Sports
-Smart//:id=bein4_mega
-#EXTINF:-1 group-title="体育" tvg-id="bein5_mega",体育|Bein 5 Sports
-Smart//:id=bein5_mega
-#EXTINF:-1 group-title="体育" tvg-id="bein6_mega",体育|Bein 6 Sports
-Smart//:id=bein6_mega
-#EXTINF:-1 group-title="体育" tvg-id="bein7_mega",体育|Bein 7 Sports
-Smart//:id=bein7_mega
-#EXTINF:-1 group-title="体育" tvg-id="Rugbypasstv",体育|Rugby Pass TV
-Smart//:id=Rugbypasstv
-#EXTINF:-1 group-title="体育" tvg-id="Bolaarena2",体育|BolaArena 2
-Smart//:id=Bolaarena2
 #EXTINF:-1 group-title="印度" tvg-id="Suntv",印度|Sun TV HD
 Smart//:id=Suntv
 #EXTINF:-1 group-title="印度" tvg-id="Starvijay",印度|Star Vijay
 Smart//:id=Starvijay
-#EXTINF:-1 group-title="印度" tvg-id="Colorstam_mega",印度|Colors Tamil
-Smart//:id=Colorstam_mega
+#EXTINF:-1 group-title="印度" tvg-id="Colorstam",印度|Colors Tamil
+Smart//:id=Colorstam
 #EXTINF:-1 group-title="印度" tvg-id="Sunmusic",印度|Sun Music
 Smart//:id=Sunmusic
 #EXTINF:-1 group-title="印度" tvg-id="Sunlife",印度|Astro Sunlife
@@ -683,10 +868,6 @@ Smart//:id=Zeenews
 Smart//:id=asianet_raj
 #EXTINF:-1 group-title="印度" tvg-id="asianetnews_raj",印度|Asianet News
 Smart//:id=asianetnews_raj
-#EXTINF:-1 group-title="印度" tvg-id="timesnow_mega",印度|Times Now
-Smart//:id=timesnow_mega
-#EXTINF:-1 group-title="印度" tvg-id="bbcearthtam_raj",印度|BBC Earth Tamil
-Smart//:id=bbcearthtam_raj
 #EXTINF:-1 group-title="印度" tvg-id="discoveryworldtam_raj",印度|Discovery World Tamil
 Smart//:id=discoveryworldtam_raj
 #EXTINF:-1 group-title="印度" tvg-id="historytam_raj",印度|History Tamil
@@ -695,6 +876,8 @@ Smart//:id=historytam_raj
 Smart//:id=natgeotamil_raj
 #EXTINF:-1 group-title="印度" tvg-id="natgeowildtamil_raj",印度|Natgeo Wild Tamil
 Smart//:id=natgeowildtamil_raj
+#EXTINF:-1 group-title="印度" tvg-id="Asonypix",印度|Astro Sonypix
+Smart//:id=Asonypix
 #EXTINF:-1 group-title="印度" tvg-id="discoverykidtamil_raj",印度|Discovery Kids Tamil
 Smart//:id=discoverykidtamil_raj
 #EXTINF:-1 group-title="印度" tvg-id="discoverytamil_raj",印度|Discovery Tamil
@@ -711,326 +894,145 @@ Smart//:id=starmaamovies_raj
 Smart//:id=Bollyone
 #EXTINF:-1 group-title="印度" tvg-id="Sunmusic",印度|Astro Sunmusic
 Smart//:id=Sunmusic
-#EXTINF:-1 group-title="印度" tvg-id="sonypix_mega",印度|Sony Pix HD
-Smart//:id=sonypix_mega
 #EXTINF:-1 group-title="印度" tvg-id="vijaysuper_raj",印度|Vijay Super
 Smart//:id=vijaysuper_raj
-#EXTINF:-1 group-title="电影" tvg-id="axn_twn",电影|AXN
-Smart//:id=axn_twn
-#EXTINF:-1 group-title="电影" tvg-id="Animax",电影|Animax
-Smart//:id=Animax
-#EXTINF:-1 group-title="电影" tvg-id="Kplus",电影|Astrol Kplus
-Smart//:id=Kplus
-#EXTINF:-1 group-title="电影" tvg-id="Axn",电影|Axn HD
-Smart//:id=Axn
-#EXTINF:-1 group-title="电影" tvg-id="cctv6",电影|CCTV-6
-Smart//:id=cctv6
-#EXTINF:-1 group-title="电影" tvg-id="cinemax_twn",电影|CINEMAX
-Smart//:id=cinemax_twn
-#EXTINF:-1 group-title="电影" tvg-id="Celestial2",电影|Celestial Classic
-Smart//:id=Celestial2
-#EXTINF:-1 group-title="电影" tvg-id="Celestialindo",电影|Celestial Movies HD
-Smart//:id=Celestialindo
-#EXTINF:-1 group-title="电影" tvg-id="Cinemax",电影|Cinemax
-Smart//:id=Cinemax
-#EXTINF:-1 group-title="电影" tvg-id="Hbofamily",电影|HBO Family
-Smart//:id=Hbofamily
-#EXTINF:-1 group-title="电影" tvg-id="Hbo",电影|HBO HD
-Smart//:id=Hbo
-#EXTINF:-1 group-title="电影" tvg-id="Hbohits",电影|HBO Hits
-Smart//:id=Hbohits
-#EXTINF:-1 group-title="电影" tvg-id="Hbosignature",电影|HBO Signature
-Smart//:id=Hbosignature
-#EXTINF:-1 group-title="电影" tvg-id="hbohd_twn",电影|HBO_HD
-Smart//:id=hbohd_twn
-#EXTINF:-1 group-title="电影" tvg-id="hbohits_twn",电影|HBO_HITS
-Smart//:id=hbohits_twn
-#EXTINF:-1 group-title="电影" tvg-id="Hitsmovie",电影|Hits Movie
-Smart//:id=Hitsmovie
-#EXTINF:-1 group-title="电影" tvg-id="Hits",电影|Hits
-Smart//:id=Hits
-#EXTINF:-1 group-title="电影" tvg-id="hollywoodmovies_twn",电影|Hollywood Movies
-Smart//:id=hollywoodmovies_twn
-#EXTINF:-1 group-title="电影" tvg-id="moviesnow_raj",电影|Movies Now HD
-Smart//:id=moviesnow_raj
-#EXTINF:-1 group-title="电影" tvg-id="One_mega",电影|One
-Smart//:id=One_mega
-#EXTINF:-1 group-title="电影" tvg-id="Paramountnetwork",电影|Paramount Network
-Smart//:id=Paramountnetwork
-#EXTINF:-1 group-title="电影" tvg-id="Rockaction",电影|Rock Actions
-Smart//:id=Rockaction
-#EXTINF:-1 group-title="电影" tvg-id="Rockentertain",电影|Rock Entertainment
-Smart//:id=Rockentertain
-#EXTINF:-1 group-title="电影" tvg-id="Weishimovie",电影|SCM
-Smart//:id=Weishimovie
-#EXTINF:-1 group-title="电影" tvg-id="sonypix_mega",电影|Sony Pix HD
-Smart//:id=sonypix_mega
-#EXTINF:-1 group-title="电影" tvg-id="starmovies_raj",电影|Star Movies HD
-Smart//:id=starmovies_raj
-#EXTINF:-1 group-title="电影" tvg-id="Thrill",电影|Thrill
-Smart//:id=Thrill
-#EXTINF:-1 group-title="电影" tvg-id="WarnerTV",电影|Warner TV
-Smart//:id=WarnerTV
-#EXTINF:-1 group-title="电影" tvg-id="Tvnmovie",电影|tvN Movie
-Smart//:id=Tvnmovie
-#EXTINF:-1 group-title="电影" tvg-id="catchplay_twn",电影|大愛2台
-Smart//:id=catchplay_twn
-#EXTINF:-1 group-title="电影" tvg-id="xingwei_movie",电影|龍華電影
-Smart//:id=xingwei_movie
-#EXTINF:-1 group-title="电影" tvg-id="ettvwestern",电影|東森洋片
-Smart//:id=ettvwestern
-#EXTINF:-1 group-title="电影" tvg-id="ettvmovie",电影|東森電影
-Smart//:id=ettvmovie
-#EXTINF:-1 group-title="电影" tvg-id="meiyamovie_twn",电影|美亞電影
-Smart//:id=meiyamovie_twn
-#EXTINF:-1 group-title="电影" tvg-id="lunghuawestern_twn",电影|龍華洋片
-Smart//:id=lunghuawestern_twn
-#EXTINF:-1 group-title="电影" tvg-id="lungxiangtime_twn",电影|龍祥时代
-Smart//:id=lungxiangtime_twn
-#EXTINF:-1 group-title="纪录" tvg-id="asiatravel_twn",纪录|AFC 亚洲旅游台
-Smart//:id=asiatravel_twn
-#EXTINF:-1 group-title="纪录" tvg-id="AnimalPlanet",纪录|Animal Planet (Eng)
-Smart//:id=AnimalPlanet
-#EXTINF:-1 group-title="纪录" tvg-id="animalplanet_twn",纪录|Animal_Planet
-Smart//:id=animalplanet_twn
-#EXTINF:-1 group-title="纪录" tvg-id="asiatravel_twn",纪录|Asia Travel
-Smart//:id=asiatravel_twn
-#EXTINF:-1 group-title="纪录" tvg-id="bbcearth_twn",纪录|BBC Earth HD
-Smart//:id=bbcearth_twn
-#EXTINF:-1 group-title="纪录" tvg-id="bbclifestyle_twn",纪录|BBC Earth Lifestyle
-Smart//:id=bbclifestyle_twn
-#EXTINF:-1 group-title="纪录" tvg-id="ci_twn",纪录|CI
-Smart//:id=ci_twn
-#EXTINF:-1 group-title="纪录" tvg-id="discoverytwn_twn",纪录|Discovery Asia
-Smart//:id=discoverytwn_twn
-#EXTINF:-1 group-title="纪录" tvg-id="discoveryhd_twn",纪录|Discovery HD
-Smart//:id=discoveryhd_twn
-#EXTINF:-1 group-title="纪录" tvg-id="fashiontv_twn",纪录|Fashion TV
-Smart//:id=fashiontv_twn
-#EXTINF:-1 group-title="纪录" tvg-id="Foodnetwork_mega",纪录|Foodnetwork Hd
-Smart//:id=Foodnetwork_mega
-#EXTINF:-1 group-title="纪录" tvg-id="HGTV",纪录|HGTV
-Smart//:id=HGTV
-#EXTINF:-1 group-title="纪录" tvg-id="History",纪录|History
-Smart//:id=History
-#EXTINF:-1 group-title="纪录" tvg-id="mtvhd_twn",纪录|MTV Live
-Smart//:id=mtvhd_twn
-#EXTINF:-1 group-title="纪录" tvg-id="Natgeo",纪录|NatGeo HD
-Smart//:id=Natgeo
-#EXTINF:-1 group-title="纪录" tvg-id="Natgeowild",纪录|NatGeo Wild HD
-Smart//:id=Natgeowild
-#EXTINF:-1 group-title="纪录" tvg-id="natgeowild_twn",纪录|NatGeo_Wild HD
-Smart//:id=natgeowild_twn
-#EXTINF:-1 group-title="纪录" tvg-id="natgeohd_twn",纪录|Natgeo_HD
-Smart//:id=natgeohd_twn
-#EXTINF:-1 group-title="纪录" tvg-id="Tlc",纪录|TLC
-Smart//:id=Tlc
-#EXTINF:-1 group-title="纪录" tvg-id="tlc_twn",纪录|TLC Asia
-Smart//:id=tlc_twn
-#EXTINF:-1 group-title="纪录" tvg-id="afc_twn",纪录|亚洲美食
-Smart//:id=afc_twn
-#EXTINF:-1 group-title="纪录" tvg-id="foodplanet_twn",纪录|美食星球
-Smart//:id=foodplanet_twn
-#EXTINF:-1 group-title="新闻" tvg-id="abcnews_glo",新闻|ABC News
-Smart//:id=abcnews_glo
-#EXTINF:-1 group-title="新闻" tvg-id="aljazeera_twn",新闻|Al-Jazeera
-Smart//:id=aljazeera_twn
-#EXTINF:-1 group-title="新闻" tvg-id="Bbcnews",新闻|BBC World News
-Smart//:id=Bbcnews
-#EXTINF:-1 group-title="新闻" tvg-id="bbcnews_twn",新闻|BBC World News
-Smart//:id=bbcnews_twn
-#EXTINF:-1 group-title="新闻" tvg-id="bloomberg_twn",新闻|Bloomberg News
-Smart//:id=bloomberg_twn
-#EXTINF:-1 group-title="新闻" tvg-id="cbshd_glo",新闻|CBS HD
-Smart//:id=cbshd_glo
-#EXTINF:-1 group-title="新闻" tvg-id="cbsn_glo",新闻|CBSN HD
-Smart//:id=cbsn_glo
-#EXTINF:-1 group-title="新闻" tvg-id="CGTN",新闻|CGTN
-Smart//:id=CGTN
-#EXTINF:-1 group-title="新闻" tvg-id="cna",新闻|CNA
-Smart//:id=cna
-#EXTINF:-1 group-title="新闻" tvg-id="cnbc_twn",新闻|CNBC
-Smart//:id=cnbc_twn
-#EXTINF:-1 group-title="新闻" tvg-id="Cnn",新闻|CNN International
-Smart//:id=Cnn
-#EXTINF:-1 group-title="新闻" tvg-id="cnn_twn",新闻|CNN(备用)
-Smart//:id=cnn_twn
-#EXTINF:-1 group-title="新闻" tvg-id="dw_twn",新闻|DW (Deutsch)
-Smart//:id=dw_twn
-#EXTINF:-1 group-title="新闻" tvg-id="foxnews_twn",新闻|Fox News
-Smart//:id=foxnews_twn
-#EXTINF:-1 group-title="新闻" tvg-id="france24_twn",新闻|France 24
-Smart//:id=france24_twn
-#EXTINF:-1 group-title="新闻" tvg-id="nhkworld_japan",新闻|NHK World
-Smart//:id=nhkworld_japan
-#EXTINF:-1 group-title="新闻" tvg-id="skynews_antik",新闻|Skynews
-Smart//:id=skynews_antik
-#EXTINF:-1 group-title="新闻" tvg-id="ettvcaijing_twn",新闻|东森财经新闻
-Smart//:id=ettvcaijing_twn
-#EXTINF:-1 group-title="儿童" tvg-id="Animax",儿童|Animax
-Smart//:id=Animax
-#EXTINF:-1 group-title="儿童" tvg-id="Babytv",儿童|Baby TV Eng
-Smart//:id=Babytv
-#EXTINF:-1 group-title="儿童" tvg-id="babytv_twn",儿童|Baby TV
-Smart//:id=babytv_twn
-#EXTINF:-1 group-title="儿童" tvg-id="boomerang_twn",儿童|Boomerang Taiwan
-Smart//:id=boomerang_twn
-#EXTINF:-1 group-title="儿童" tvg-id="Boomerang",儿童|Boomerang
-Smart//:id=Boomerang
-#EXTINF:-1 group-title="儿童" tvg-id="Cbeebies",儿童|CBeebies
-Smart//:id=Cbeebies
-#EXTINF:-1 group-title="儿童" tvg-id="Cn",儿童|Cartoon Network
-Smart//:id=Cn
-#EXTINF:-1 group-title="儿童" tvg-id="disneytwn_twn",儿童|Disney Taiwan
-Smart//:id=disneytwn_twn
-#EXTINF:-1 group-title="儿童" tvg-id="KidsTV",儿童|Kids TV
-Smart//:id=KidsTV
-#EXTINF:-1 group-title="儿童" tvg-id="MiaoMi",儿童|MiaoMi
-Smart//:id=MiaoMi
-#EXTINF:-1 group-title="儿童" tvg-id="momo1_twn",儿童|Momo TV
-Smart//:id=momo1_twn
-#EXTINF:-1 group-title="儿童" tvg-id="Nickjr",儿童|Nick Jr
-Smart//:id=Nickjr
-#EXTINF:-1 group-title="儿童" tvg-id="Nickelodeon",儿童|Nickelodeon
-Smart//:id=Nickelodeon
-#EXTINF:-1 group-title="儿童" tvg-id="yoyo_twn",儿童|东森幼幼 Yoyo TV
-Smart//:id=yoyo_twn
-#EXTINF:-1 group-title="儿童" tvg-id="jingtiancartoon_twn",儿童|靖天卡通台
-Smart//:id=jingtiancartoon_twn
-#EXTINF:-1 group-title="泰国" tvg-id="amarin_pat",泰国|Amarin
-Smart//:id=amarin_pat
-#EXTINF:-1 group-title="泰国" tvg-id="ch8_pat",泰国|Ch 8
-Smart//:id=ch8_pat
+#EXTINF:-1 group-title="印度" tvg-id="Vellithirai",印度|Vellithirai
+Smart//:id=Vellithirai
+#EXTM3U
 #EXTINF:-1 group-title="泰国" tvg-id="ch3_pat",泰国|Channel 3 Thailand
 Smart//:id=ch3_pat
 #EXTINF:-1 group-title="泰国" tvg-id="ch5_pat",泰国|Channel 5 Thailand
 Smart//:id=ch5_pat
 #EXTINF:-1 group-title="泰国" tvg-id="ch7_pat",泰国|Channel 7 Thailand
 Smart//:id=ch7_pat
-#EXTINF:-1 group-title="泰国" tvg-id="gmmchannel_pat",泰国|Gmm Channel
-Smart//:id=gmmchannel_pat
-#EXTINF:-1 group-title="泰国" tvg-id="gmmone_pat",泰国|GmmOne
-Smart//:id=gmmone_pat
 #EXTINF:-1 group-title="泰国" tvg-id="mcot_pat",泰国|MCOT HD Thailand-1
 Smart//:id=mcot_pat
+#EXTINF:-1 group-title="泰国" tvg-id="pptv_pat",泰国|PPTV Thailand1
+Smart//:id=pptv_pat
+#EXTINF:-1 group-title="泰国" tvg-id="thaithai_pat",泰国|Thai Thai
+Smart//:id=thaithai_pat
+#EXTINF:-1 group-title="泰国" tvg-id="amarin_pat",泰国|Amarin
+Smart//:id=amarin_pat
+#EXTINF:-1 group-title="泰国" tvg-id="ch8_pat",泰国|Ch 8
+Smart//:id=ch8_pat
+#EXTINF:-1 group-title="泰国" tvg-id="gmmone_pat",泰国|GmmOne
+Smart//:id=gmmone_pat
 #EXTINF:-1 group-title="泰国" tvg-id="mono_pat",泰国|Mono
 Smart//:id=mono_pat
+#EXTINF:-1 group-title="泰国" tvg-id="thairath_pat",泰国|Thairath
+Smart//:id=thairath_pat
+#EXTINF:-1 group-title="泰国" tvg-id="tpbs_pat",泰国|tpbs
+Smart//:id=tpbs_pat
+#EXTINF:-1 group-title="泰国" tvg-id="workpoint_pat",泰国|Workpoint
+Smart//:id=workpoint_pat
+#EXTINF:-1 group-title="泰国" tvg-id="gmmchannel_pat",泰国|Gmm Channel
+Smart//:id=gmmchannel_pat
 #EXTINF:-1 group-title="泰国" tvg-id="nation_pat",泰国|Nation
 Smart//:id=nation_pat
+#EXTINF:-1 group-title="泰国" tvg-id="tnn24_pat",泰国|Tnn24
+Smart//:id=tnn24_pat
 #EXTINF:-1 group-title="泰国" tvg-id="nbt_pat",泰国|Nbt
 Smart//:id=nbt_pat
 #EXTINF:-1 group-title="泰国" tvg-id="new_pat",泰国|New
 Smart//:id=new_pat
-#EXTINF:-1 group-title="泰国" tvg-id="pptv_pat",泰国|PPTV Thailand1
-Smart//:id=pptv_pat
 #EXTINF:-1 group-title="泰国" tvg-id="tptv_pat",泰国|TPTV
 Smart//:id=tptv_pat
-#EXTINF:-1 group-title="泰国" tvg-id="thaithai_pat",泰国|Thai Thai
-Smart//:id=thaithai_pat
-#EXTINF:-1 group-title="泰国" tvg-id="thairath_pat",泰国|Thairath
-Smart//:id=thairath_pat
-#EXTINF:-1 group-title="泰国" tvg-id="tnn24_pat",泰国|Tnn24
-Smart//:id=tnn24_pat
-#EXTINF:-1 group-title="泰国" tvg-id="workpoint_pat",泰国|Workpoint
-Smart//:id=workpoint_pat
-#EXTINF:-1 group-title="泰国" tvg-id="tpbs_pat",泰国|tpbs
-Smart//:id=tpbs_pat
-#EXTINF:-1 group-title="英国" tvg-id="aljazeera_twn",英国|Al-Jazeera
-Smart//:id=aljazeera_twn
-#EXTINF:-1 group-title="英国" tvg-id="AnimalPlanet",英国|Animal Planet (Eng)
-Smart//:id=AnimalPlanet
-#EXTINF:-1 group-title="英国" tvg-id="Axn",英国|Axn HD
-Smart//:id=Axn
 #EXTINF:-1 group-title="英国" tvg-id="bbc1_antik",英国|BBC 1
 Smart//:id=bbc1_antik
 #EXTINF:-1 group-title="英国" tvg-id="bbc2_antik",英国|BBC 2
 Smart//:id=bbc2_antik
-#EXTINF:-1 group-title="英国" tvg-id="bbcearth_twn",英国|BBC Earth HD
-Smart//:id=bbcearth_twn
-#EXTINF:-1 group-title="英国" tvg-id="bbclifestyle_twn",英国|BBC Earth Lifestyle
-Smart//:id=bbclifestyle_twn
-#EXTINF:-1 group-title="英国" tvg-id="bbcworldnews_antik",英国|BBC World News
-Smart//:id=bbcworldnews_antik
-#EXTINF:-1 group-title="英国" tvg-id="bloomberg_twn",英国|Bloomberg News
-Smart//:id=bloomberg_twn
-#EXTINF:-1 group-title="英国" tvg-id="Boomerang",英国|Boomerang
-Smart//:id=Boomerang
 #EXTINF:-1 group-title="英国" tvg-id="cbbc_antik",英国|CBBC
 Smart//:id=cbbc_antik
-#EXTINF:-1 group-title="英国" tvg-id="Cbeebies",英国|CBeebies
-Smart//:id=Cbeebies
-#EXTINF:-1 group-title="英国" tvg-id="CGTN",英国|CGTN
-Smart//:id=CGTN
-#EXTINF:-1 group-title="英国" tvg-id="cnbc_twn",英国|CNBC
-Smart//:id=cnbc_twn
-#EXTINF:-1 group-title="英国" tvg-id="channel4_antik",英国|Channel 4
-Smart//:id=channel4_antik
-#EXTINF:-1 group-title="英国" tvg-id="dw_twn",英国|DW (Deutsch)
-Smart//:id=dw_twn
-#EXTINF:-1 group-title="英国" tvg-id="euronews_antik",英国|Euronews
-Smart//:id=euronews_antik
-#EXTINF:-1 group-title="英国" tvg-id="france24_twn",英国|France 24
-Smart//:id=france24_twn
-#EXTINF:-1 group-title="英国" tvg-id="freesports_antik",英国|Freesports
-Smart//:id=freesports_antik
-#EXTINF:-1 group-title="英国" tvg-id="Hbo",英国|HBO HD
-Smart//:id=Hbo
-#EXTINF:-1 group-title="英国" tvg-id="HGTV",英国|HGTV
-Smart//:id=HGTV
-#EXTINF:-1 group-title="英国" tvg-id="History",英国|History
-Smart//:id=History
-#EXTINF:-1 group-title="英国" tvg-id="Hitsmovie",英国|Hits Movie
-Smart//:id=Hitsmovie
-#EXTINF:-1 group-title="英国" tvg-id="KidsTV",英国|Kids TV
-Smart//:id=KidsTV
-#EXTINF:-1 group-title="英国" tvg-id="mtvhd_twn",英国|MTV Live
-Smart//:id=mtvhd_twn
 #EXTINF:-1 group-title="英国" tvg-id="more4_antik",英国|More4
 Smart//:id=more4_antik
-#EXTINF:-1 group-title="英国" tvg-id="nhkworld_japan",英国|NHK World
-Smart//:id=nhkworld_japan
-#EXTINF:-1 group-title="英国" tvg-id="Natgeo",英国|NatGeo HD
-Smart//:id=Natgeo
-#EXTINF:-1 group-title="英国" tvg-id="Natgeowild",英国|NatGeo Wild HD
-Smart//:id=Natgeowild
-#EXTINF:-1 group-title="英国" tvg-id="Nickjr",英国|Nick Jr
-Smart//:id=Nickjr
-#EXTINF:-1 group-title="英国" tvg-id="Nickelodeon",英国|Nickelodeon
-Smart//:id=Nickelodeon
+#EXTINF:-1 group-title="英国" tvg-id="freesports_antik",英国|Freesports
+Smart//:id=freesports_antik
+#EXTINF:-1 group-title="英国" tvg-id="skynews_twn",英国|Skynews
+Smart//:id=skynews_twn
 #EXTINF:-1 group-title="英国" tvg-id="picktv_antik",英国|Pick TV
 Smart//:id=picktv_antik
-#EXTINF:-1 group-title="英国" tvg-id="skynews_antik",英国|Skynews
-Smart//:id=skynews_antik
-#EXTINF:-1 group-title="英国" tvg-id="tiankongarena",英国|Skysports Arena
-Smart//:id=tiankongarena
-#EXTINF:-1 group-title="英国" tvg-id="tiankongcricket",英国|Skysports Cricket
-Smart//:id=tiankongcricket
-#EXTINF:-1 group-title="英国" tvg-id="tiankongepl",英国|Skysports EPL
-Smart//:id=tiankongepl
-#EXTINF:-1 group-title="英国" tvg-id="tiankongf1",英国|Skysports F1
-Smart//:id=tiankongf1
-#EXTINF:-1 group-title="英国" tvg-id="tiankongfootball",英国|Skysports Football
-Smart//:id=tiankongfootball
-#EXTINF:-1 group-title="英国" tvg-id="tiankonggolf",英国|Skysports Golf
-Smart//:id=tiankonggolf
-#EXTINF:-1 group-title="英国" tvg-id="tiankongmain",英国|Skysports Main Event
-Smart//:id=tiankongmain
-#EXTINF:-1 group-title="英国" tvg-id="tiankongnews",英国|Skysports News
-Smart//:id=tiankongnews
-#EXTINF:-1 group-title="英国" tvg-id="starmovies_raj",英国|Star Movies HD
-Smart//:id=starmovies_raj
-#EXTINF:-1 group-title="英国" tvg-id="Tlc",英国|TLC
-Smart//:id=Tlc
-#EXTINF:-1 group-title="英国" tvg-id="Thrill",英国|Thrill
-Smart//:id=Thrill
-#EXTINF:-1 group-title="英国" tvg-id="WarnerTV",英国|Warner TV
-Smart//:id=WarnerTV
 #EXTINF:-1 group-title="英国" tvg-id="itv1_antik",英国|itv 1
 Smart//:id=itv1_antik
 #EXTINF:-1 group-title="英国" tvg-id="itv2_antik",英国|itv 2
 Smart//:id=itv2_antik
+#EXTINF:-1 group-title="英国" tvg-id="euronews_antik",英国|Euronews
+Smart//:id=euronews_antik
+#EXTINF:-1 group-title="英国" tvg-id="channel4_antik",英国|Channel 4
+Smart//:id=channel4_antik
+#EXTINF:-1 group-title="英国" tvg-id="Natgeo",英国|NatGeo HD
+Smart//:id=Natgeo
+#EXTINF:-1 group-title="英国" tvg-id="Cbeebies",英国|CBeebies
+Smart//:id=Cbeebies
+#EXTINF:-1 group-title="英国" tvg-id="History",英国|History
+Smart//:id=History
+#EXTINF:-1 group-title="英国" tvg-id="KidsTV",英国|Kids TV
+Smart//:id=KidsTV
+#EXTINF:-1 group-title="英国" tvg-id="france24_twn",英国|France 24
+Smart//:id=france24_twn
+#EXTINF:-1 group-title="英国" tvg-id="dw_twn",英国|DW (Deutsch)
+Smart//:id=dw_twn
+#EXTINF:-1 group-title="英国" tvg-id="bbcearth_twn",英国|BBC Earth HD
+Smart//:id=bbcearth_twn
+#EXTINF:-1 group-title="英国" tvg-id="bbclifestyle_twn",英国|BBC Earth Lifestyle
+Smart//:id=bbclifestyle_twn
+#EXTINF:-1 group-title="英国" tvg-id="mtvhd_twn",英国|MTV Live
+Smart//:id=mtvhd_twn
+#EXTINF:-1 group-title="英国" tvg-id="starmovies_raj",英国|Star Movies HD
+Smart//:id=starmovies_raj
+#EXTINF:-1 group-title="英国" tvg-id="nhkworld_japan",英国|NHK World
+Smart//:id=nhkworld_japan
+#EXTINF:-1 group-title="英国" tvg-id="WarnerTV",英国|Warner TV
+Smart//:id=WarnerTV
+#EXTINF:-1 group-title="英国" tvg-id="Hbo",英国|HBO HD
+Smart//:id=Hbo
+#EXTINF:-1 group-title="英国" tvg-id="Natgeowild",英国|NatGeo Wild HD
+Smart//:id=Natgeowild
+#EXTINF:-1 group-title="英国" tvg-id="Nickelodeon",英国|Nickelodeon
+Smart//:id=Nickelodeon
+#EXTINF:-1 group-title="英国" tvg-id="Nickjr",英国|Nick Jr
+Smart//:id=Nickjr
+#EXTINF:-1 group-title="英国" tvg-id="Thrill",英国|Thrill
+Smart//:id=Thrill
+#EXTINF:-1 group-title="英国" tvg-id="CGTN",英国|CGTN
+Smart//:id=CGTN
+#EXTINF:-1 group-title="英国" tvg-id="Hitsmovie",英国|Hits Movie
+Smart//:id=Hitsmovie
+#EXTINF:-1 group-title="英国" tvg-id="AnimalPlanet",英国|Animal Planet (Eng)
+Smart//:id=AnimalPlanet
+#EXTINF:-1 group-title="英国" tvg-id="cnbc_twn",英国|CNBC
+Smart//:id=cnbc_twn
+#EXTINF:-1 group-title="英国" tvg-id="Tlc",英国|TLC
+Smart//:id=Tlc
+#EXTINF:-1 group-title="英国" tvg-id="bbcworldnews_antik",英国|BBC World News
+Smart//:id=bbcworldnews_antik
+#EXTINF:-1 group-title="英国" tvg-id="HGTV",英国|HGTV
+Smart//:id=HGTV
+#EXTINF:-1 group-title="英国" tvg-id="Axn",英国|Axn HD
+Smart//:id=Axn
+#EXTINF:-1 group-title="英国" tvg-id="tiankongf1",英国|Skysports F1
+Smart//:id=tiankongf1
+#EXTINF:-1 group-title="英国" tvg-id="tiankongcricket",英国|Skysports Cricket
+Smart//:id=tiankongcricket
+#EXTINF:-1 group-title="英国" tvg-id="bloomberg_twn",英国|Bloomberg News
+Smart//:id=bloomberg_twn
+#EXTINF:-1 group-title="英国" tvg-id="tiankongepl",英国|Skysports EPL
+Smart//:id=tiankongepl
+#EXTINF:-1 group-title="英国" tvg-id="tiankongmain",英国|Skysports Main Event
+Smart//:id=tiankongmain
+#EXTINF:-1 group-title="英国" tvg-id="tiankongnews",英国|Skysports News
+Smart//:id=tiankongnews
+#EXTINF:-1 group-title="英国" tvg-id="aljazeera_twn",英国|Al-Jazeera
+Smart//:id=aljazeera_twn
 #EXTINF:-1 group-title="越南" tvg-id="viet_antv",越南|ANTV
 Smart//:id=viet_antv
+#EXTINF:-1 group-title="越南" tvg-id="viet_vtv1",越南|VTV 1
+Smart//:id=viet_vtv1
+#EXTINF:-1 group-title="越南" tvg-id="viet_vtv7",越南|VTV 7
+Smart//:id=viet_vtv7
+#EXTINF:-1 group-title="越南" tvg-id="viet_htv7",越南|HTV 7
+Smart//:id=viet_htv7
+#EXTINF:-1 group-title="越南" tvg-id="viet_htv9",越南|HTV 9
+Smart//:id=viet_htv9
 #EXTINF:-1 group-title="越南" tvg-id="viet_bptv2",越南|BPTV 2
 Smart//:id=viet_bptv2
 #EXTINF:-1 group-title="越南" tvg-id="viet_brt",越南|BRT HD
@@ -1043,75 +1045,67 @@ Smart//:id=viet_danangtv1
 Smart//:id=viet_danangtv2
 #EXTINF:-1 group-title="越南" tvg-id="viet_hbtv",越南|HBTV HD
 Smart//:id=viet_hbtv
-#EXTINF:-1 group-title="越南" tvg-id="viet_htv7",越南|HTV 7
-Smart//:id=viet_htv7
-#EXTINF:-1 group-title="越南" tvg-id="viet_htv9",越南|HTV 9
-Smart//:id=viet_htv9
 #EXTINF:-1 group-title="越南" tvg-id="viet_ptth1",越南|PTTH 1
 Smart//:id=viet_ptth1
-#EXTINF:-1 group-title="越南" tvg-id="viet_vtv1",越南|VTV 1
-Smart//:id=viet_vtv1
-#EXTINF:-1 group-title="越南" tvg-id="viet_vtv7",越南|VTV 7
-Smart//:id=viet_vtv7
-#EXTINF:-1 group-title="韩国" tvg-id="allthekpop_korea",韩国|All the Kpop
-Smart//:id=allthekpop_korea
-#EXTINF:-1 group-title="韩国" tvg-id="appongoogle_korea",韩国|Apps TV
-Smart//:id=appongoogle_korea
 #EXTINF:-1 group-title="韩国" tvg-id="arirang_korea",韩国|Arirang HD
 Smart//:id=arirang_korea
-#EXTINF:-1 group-title="韩国" tvg-id="cbs_korea",韩国|CBS
-Smart//:id=cbs_korea
-#EXTINF:-1 group-title="韩国" tvg-id="cgntv_korea",韩国|CGNTV
-Smart//:id=cgntv_korea
-#EXTINF:-1 group-title="韩国" tvg-id="ebs1_korea",韩国|EBS 1
-Smart//:id=ebs1_korea
-#EXTINF:-1 group-title="韩国" tvg-id="ebskids_korea",韩国|EBS Kids
-Smart//:id=ebskids_korea
-#EXTINF:-1 group-title="韩国" tvg-id="ebsplus2_korea",韩国|EBS Plus2
-Smart//:id=ebsplus2_korea
-#EXTINF:-1 group-title="韩国" tvg-id="ebs2_korea",韩国|EBS2
-Smart//:id=ebs2_korea
-#EXTINF:-1 group-title="韩国" tvg-id="jthekpop_korea",韩国|J the Kpop
-Smart//:id=jthekpop_korea
-#EXTINF:-1 group-title="韩国" tvg-id="kbsworld24_korea",韩国|KBS World 24
-Smart//:id=kbsworld24_korea
-#EXTINF:-1 group-title="韩国" tvg-id="sbsplus_korea",韩国|SBS Plus
-Smart//:id=sbsplus_korea
-#EXTINF:-1 group-title="韩国" tvg-id="ytndmb_korea",韩国|YTN DMB
-Smart//:id=ytndmb_korea
-#EXTINF:-1 group-title="韩国" tvg-id="ytnkorean_korea",韩国|YTN Korean
-Smart//:id=ytnkorean_korea
-#EXTINF:-1 group-title="韩国" tvg-id="ytnscience_korea",韩国|YTN Science
-Smart//:id=ytnscience_korea
-#EXTINF:-1 group-title="韩国" tvg-id="ytn_korea",韩国|YTN
-Smart//:id=ytn_korea
 #EXTINF:-1 group-title="韩国" tvg-id="yonhapnews_korea",韩国|Yonhap News
 Smart//:id=yonhapnews_korea
-#EXTINF:-1 group-title="日本" tvg-id="bstbs_japan",日本|BS-TBS
-Smart//:id=bstbs_japan
+#EXTINF:-1 group-title="韩国" tvg-id="cbs_korea",韩国|CBS
+Smart//:id=cbs_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ebs1_korea",韩国|EBS 1
+Smart//:id=ebs1_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ebs2_korea",韩国|EBS2
+Smart//:id=ebs2_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ebsplus2_korea",韩国|EBS Plus2
+Smart//:id=ebsplus2_korea
+#EXTINF:-1 group-title="韩国" tvg-id="sbsplus_korea",韩国|SBS Plus
+Smart//:id=sbsplus_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ytn_korea",韩国|YTN
+Smart//:id=ytn_korea
+#EXTINF:-1 group-title="韩国" tvg-id="kbsworld24_korea",韩国|KBS World 24
+Smart//:id=kbsworld24_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ytnscience_korea",韩国|YTN Science
+Smart//:id=ytnscience_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ytnkorean_korea",韩国|YTN Korean
+Smart//:id=ytnkorean_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ytndmb_korea",韩国|YTN DMB
+Smart//:id=ytndmb_korea
+#EXTINF:-1 group-title="韩国" tvg-id="appongoogle_korea",韩国|Apps TV
+Smart//:id=appongoogle_korea
+#EXTINF:-1 group-title="韩国" tvg-id="allthekpop_korea",韩国|All the Kpop
+Smart//:id=allthekpop_korea
+#EXTINF:-1 group-title="韩国" tvg-id="jthekpop_korea",韩国|J the Kpop
+Smart//:id=jthekpop_korea
+#EXTINF:-1 group-title="韩国" tvg-id="ebskids_korea",韩国|EBS Kids
+Smart//:id=ebskids_korea
+#EXTINF:-1 group-title="韩国" tvg-id="cgntv_korea",韩国|CGNTV
+Smart//:id=cgntv_korea
+#EXTINF:-1 group-title="日本" tvg-id="nhkg_japan",日本|NHK-総合-2
+Smart//:id=nhkg_japan
+#EXTINF:-1 group-title="日本" tvg-id="nhke_japan",日本|NHK-E
+Smart//:id=nhke_japan
+#EXTINF:-1 group-title="日本" tvg-id="asahitv_japan",日本|テレビ朝日 Asahi TV
+Smart//:id=asahitv_japan
+#EXTINF:-1 group-title="日本" tvg-id="jettv_japan",日本|JET 綜合
+Smart//:id=jettv_japan
+#EXTINF:-1 group-title="日本" tvg-id="tokyotv_japan",日本|テレビ東京 Tokyo TV
+Smart//:id=tokyotv_japan
+#EXTINF:-1 group-title="日本" tvg-id="tokyomx_japan",日本|TOKYOMX
+Smart//:id=tokyomx_japan
+#EXTINF:-1 group-title="日本" tvg-id="nhkbs1_japan",日本|NHKBS1
+Smart//:id=nhkbs1_japan
+#EXTINF:-1 group-title="日本" tvg-id="nhkpremium_japan",日本|NHKBSプレミア Premium
+Smart//:id=nhkpremium_japan
 #EXTINF:-1 group-title="日本" tvg-id="bs181_japan",日本|BSジャパン 181
 Smart//:id=bs181_japan
 #EXTINF:-1 group-title="日本" tvg-id="bsfuji_japan",日本|BSフジ BS Fuji
 Smart//:id=bsfuji_japan
 #EXTINF:-1 group-title="日本" tvg-id="cna_japan",日本|CNA Japan
 Smart//:id=cna_japan
-#EXTINF:-1 group-title="日本" tvg-id="jettv_japan",日本|JET 綜合
-Smart//:id=jettv_japan
+#EXTINF:-1 group-title="日本" tvg-id="bstbs_japan",日本|BS-TBS
+Smart//:id=bstbs_japan
 #EXTINF:-1 group-title="日本" tvg-id="nhkosaka_japan",日本|NHK Oaska
 Smart//:id=nhkosaka_japan
 #EXTINF:-1 group-title="日本" tvg-id="nhkworld_japan",日本|NHK World
 Smart//:id=nhkworld_japan
-#EXTINF:-1 group-title="日本" tvg-id="nhke_japan",日本|NHK-E
-Smart//:id=nhke_japan
-#EXTINF:-1 group-title="日本" tvg-id="nhkg_japan",日本|NHK-総合-2
-Smart//:id=nhkg_japan
-#EXTINF:-1 group-title="日本" tvg-id="nhkbs1_japan",日本|NHKBS1
-Smart//:id=nhkbs1_japan
-#EXTINF:-1 group-title="日本" tvg-id="nhkpremium_japan",日本|NHKBSプレミア Premium
-Smart//:id=nhkpremium_japan
-#EXTINF:-1 group-title="日本" tvg-id="tokyomx_japan",日本|TOKYOMX
-Smart//:id=tokyomx_japan
-#EXTINF:-1 group-title="日本" tvg-id="asahitv_japan",日本|テレビ朝日 Asahi TV
-Smart//:id=asahitv_japan
-#EXTINF:-1 group-title="日本" tvg-id="tokyotv_japan",日本|テレビ東京 Tokyo TV
-Smart//:id=tokyotv_japan
