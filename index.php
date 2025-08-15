@@ -17,7 +17,7 @@ const CONFIG = [
     'http://50.7.92.106:8278/',  // 确保URL格式完整
     'http://50.7.234.10:8278/',
     'http://50.7.220.170:8278/',
-    'http://67.159.6.34:8278/'
+    'http://66.90.99.154:8278/'
     ],
     'list_url'   => '/app/smart.txt',
     'token_ttl'  => 2400,  // 40分钟有效期
@@ -370,3 +370,4 @@ function getBaseUrl() {
     return (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http') 
            . "://$_SERVER[HTTP_HOST]";
 }
+
